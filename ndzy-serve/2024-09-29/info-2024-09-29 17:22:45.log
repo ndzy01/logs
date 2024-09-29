@@ -1,0 +1,91 @@
+info: 2024-09-29 17:10:47: Starting Nest application...
+info: 2024-09-29 17:10:47: WinstonModule dependencies initialized
+info: 2024-09-29 17:10:47: TasksModule dependencies initialized
+info: 2024-09-29 17:10:47: AppModule dependencies initialized
+info: 2024-09-29 17:10:47: AppController {/}:
+info: 2024-09-29 17:10:47: Mapped {/, GET} route
+info: 2024-09-29 17:10:47: Nest application successfully started
+info: 2024-09-29 17:14:32: Starting Nest application...
+info: 2024-09-29 17:14:32: WinstonModule dependencies initialized
+info: 2024-09-29 17:14:32: TasksModule dependencies initialized
+info: 2024-09-29 17:14:32: AppModule dependencies initialized
+info: 2024-09-29 17:14:32: AppController {/}:
+info: 2024-09-29 17:14:32: Mapped {/, GET} route
+info: 2024-09-29 17:14:32: Nest application successfully started
+info: 2024-09-29 17:14:35: Starting Nest application...
+info: 2024-09-29 17:14:35: WinstonModule dependencies initialized
+info: 2024-09-29 17:14:35: TasksModule dependencies initialized
+info: 2024-09-29 17:14:35: AppModule dependencies initialized
+info: 2024-09-29 17:14:35: AppController {/}:
+info: 2024-09-29 17:14:35: Mapped {/, GET} route
+info: 2024-09-29 17:14:35: Nest application successfully started
+info: 2024-09-29 17:14:43: Starting Nest application...
+info: 2024-09-29 17:14:43: WinstonModule dependencies initialized
+info: 2024-09-29 17:14:43: TasksModule dependencies initialized
+info: 2024-09-29 17:14:43: AppModule dependencies initialized
+info: 2024-09-29 17:14:43: AppController {/}:
+info: 2024-09-29 17:14:43: Mapped {/, GET} route
+info: 2024-09-29 17:14:43: Nest application successfully started
+info: 2024-09-29 17:17:42: Starting Nest application...
+info: 2024-09-29 17:17:42: WinstonModule dependencies initialized
+info: 2024-09-29 17:17:42: TasksModule dependencies initialized
+info: 2024-09-29 17:17:42: AppModule dependencies initialized
+info: 2024-09-29 17:17:42: AppController {/}:
+info: 2024-09-29 17:17:42: Mapped {/, GET} route
+info: 2024-09-29 17:17:42: Nest application successfully started
+info: 2024-09-29 17:18:49: Starting Nest application...
+info: 2024-09-29 17:18:49: WinstonModule dependencies initialized
+info: 2024-09-29 17:18:49: TasksModule dependencies initialized
+info: 2024-09-29 17:18:49: AppModule dependencies initialized
+info: 2024-09-29 17:18:49: AppController {/}:
+info: 2024-09-29 17:18:49: Mapped {/, GET} route
+info: 2024-09-29 17:18:49: Nest application successfully started
+info: 2024-09-29 17:19:03: Starting Nest application...
+info: 2024-09-29 17:19:03: WinstonModule dependencies initialized
+info: 2024-09-29 17:19:03: TasksModule dependencies initialized
+info: 2024-09-29 17:19:03: AppModule dependencies initialized
+info: 2024-09-29 17:19:03: AppController {/}:
+info: 2024-09-29 17:19:03: Mapped {/, GET} route
+info: 2024-09-29 17:19:03: Nest application successfully started
+info: 2024-09-29 17:20:24: Starting Nest application...
+info: 2024-09-29 17:20:24: WinstonModule dependencies initialized
+info: 2024-09-29 17:20:24: TasksModule dependencies initialized
+info: 2024-09-29 17:20:24: AppModule dependencies initialized
+info: 2024-09-29 17:20:24: AppController {/}:
+info: 2024-09-29 17:20:24: Mapped {/, GET} route
+info: 2024-09-29 17:20:24: Nest application successfully started
+info: 2024-09-29 17:20:33: Starting Nest application...
+info: 2024-09-29 17:20:33: WinstonModule dependencies initialized
+info: 2024-09-29 17:20:33: TasksModule dependencies initialized
+info: 2024-09-29 17:20:33: AppModule dependencies initialized
+info: 2024-09-29 17:20:33: AppController {/}:
+info: 2024-09-29 17:20:33: Mapped {/, GET} route
+info: 2024-09-29 17:20:33: Nest application successfully started
+info: 2024-09-29 17:20:37: Starting Nest application...
+info: 2024-09-29 17:20:37: WinstonModule dependencies initialized
+info: 2024-09-29 17:20:37: TasksModule dependencies initialized
+info: 2024-09-29 17:20:37: AppModule dependencies initialized
+info: 2024-09-29 17:20:37: AppController {/}:
+info: 2024-09-29 17:20:37: Mapped {/, GET} route
+info: 2024-09-29 17:20:37: Nest application successfully started
+info: 2024-09-29 17:21:17: Starting Nest application...
+info: 2024-09-29 17:21:17: WinstonModule dependencies initialized
+info: 2024-09-29 17:21:17: TasksModule dependencies initialized
+info: 2024-09-29 17:21:17: AppModule dependencies initialized
+info: 2024-09-29 17:21:17: DiscoveryModule dependencies initialized
+info: 2024-09-29 17:21:17: ScheduleModule dependencies initialized
+info: 2024-09-29 17:21:18: AppController {/}:
+info: 2024-09-29 17:21:18: Mapped {/, GET} route
+info: 2024-09-29 17:21:18: Nest application successfully started
+info: 2024-09-29 17:21:45: 上传日志
+error: 2024-09-29 17:21:45: (0 , dayjs_1.default) is not a function
+info: 2024-09-29 17:22:41: Starting Nest application...
+info: 2024-09-29 17:22:41: WinstonModule dependencies initialized
+info: 2024-09-29 17:22:41: TasksModule dependencies initialized
+info: 2024-09-29 17:22:41: AppModule dependencies initialized
+info: 2024-09-29 17:22:41: DiscoveryModule dependencies initialized
+info: 2024-09-29 17:22:41: ScheduleModule dependencies initialized
+info: 2024-09-29 17:22:41: AppController {/}:
+info: 2024-09-29 17:22:41: Mapped {/, GET} route
+info: 2024-09-29 17:22:41: Nest application successfully started
+info: 2024-09-29 17:22:45: 上传日志
