@@ -1,0 +1,152 @@
+info: 2024-09-29 17:10:47: Starting Nest application...
+info: 2024-09-29 17:10:47: WinstonModule dependencies initialized
+info: 2024-09-29 17:10:47: TasksModule dependencies initialized
+info: 2024-09-29 17:10:47: AppModule dependencies initialized
+info: 2024-09-29 17:10:47: AppController {/}:
+info: 2024-09-29 17:10:47: Mapped {/, GET} route
+info: 2024-09-29 17:10:47: Nest application successfully started
+info: 2024-09-29 17:14:32: Starting Nest application...
+info: 2024-09-29 17:14:32: WinstonModule dependencies initialized
+info: 2024-09-29 17:14:32: TasksModule dependencies initialized
+info: 2024-09-29 17:14:32: AppModule dependencies initialized
+info: 2024-09-29 17:14:32: AppController {/}:
+info: 2024-09-29 17:14:32: Mapped {/, GET} route
+info: 2024-09-29 17:14:32: Nest application successfully started
+info: 2024-09-29 17:14:35: Starting Nest application...
+info: 2024-09-29 17:14:35: WinstonModule dependencies initialized
+info: 2024-09-29 17:14:35: TasksModule dependencies initialized
+info: 2024-09-29 17:14:35: AppModule dependencies initialized
+info: 2024-09-29 17:14:35: AppController {/}:
+info: 2024-09-29 17:14:35: Mapped {/, GET} route
+info: 2024-09-29 17:14:35: Nest application successfully started
+info: 2024-09-29 17:14:43: Starting Nest application...
+info: 2024-09-29 17:14:43: WinstonModule dependencies initialized
+info: 2024-09-29 17:14:43: TasksModule dependencies initialized
+info: 2024-09-29 17:14:43: AppModule dependencies initialized
+info: 2024-09-29 17:14:43: AppController {/}:
+info: 2024-09-29 17:14:43: Mapped {/, GET} route
+info: 2024-09-29 17:14:43: Nest application successfully started
+info: 2024-09-29 17:17:42: Starting Nest application...
+info: 2024-09-29 17:17:42: WinstonModule dependencies initialized
+info: 2024-09-29 17:17:42: TasksModule dependencies initialized
+info: 2024-09-29 17:17:42: AppModule dependencies initialized
+info: 2024-09-29 17:17:42: AppController {/}:
+info: 2024-09-29 17:17:42: Mapped {/, GET} route
+info: 2024-09-29 17:17:42: Nest application successfully started
+info: 2024-09-29 17:18:49: Starting Nest application...
+info: 2024-09-29 17:18:49: WinstonModule dependencies initialized
+info: 2024-09-29 17:18:49: TasksModule dependencies initialized
+info: 2024-09-29 17:18:49: AppModule dependencies initialized
+info: 2024-09-29 17:18:49: AppController {/}:
+info: 2024-09-29 17:18:49: Mapped {/, GET} route
+info: 2024-09-29 17:18:49: Nest application successfully started
+info: 2024-09-29 17:19:03: Starting Nest application...
+info: 2024-09-29 17:19:03: WinstonModule dependencies initialized
+info: 2024-09-29 17:19:03: TasksModule dependencies initialized
+info: 2024-09-29 17:19:03: AppModule dependencies initialized
+info: 2024-09-29 17:19:03: AppController {/}:
+info: 2024-09-29 17:19:03: Mapped {/, GET} route
+info: 2024-09-29 17:19:03: Nest application successfully started
+info: 2024-09-29 17:20:24: Starting Nest application...
+info: 2024-09-29 17:20:24: WinstonModule dependencies initialized
+info: 2024-09-29 17:20:24: TasksModule dependencies initialized
+info: 2024-09-29 17:20:24: AppModule dependencies initialized
+info: 2024-09-29 17:20:24: AppController {/}:
+info: 2024-09-29 17:20:24: Mapped {/, GET} route
+info: 2024-09-29 17:20:24: Nest application successfully started
+info: 2024-09-29 17:20:33: Starting Nest application...
+info: 2024-09-29 17:20:33: WinstonModule dependencies initialized
+info: 2024-09-29 17:20:33: TasksModule dependencies initialized
+info: 2024-09-29 17:20:33: AppModule dependencies initialized
+info: 2024-09-29 17:20:33: AppController {/}:
+info: 2024-09-29 17:20:33: Mapped {/, GET} route
+info: 2024-09-29 17:20:33: Nest application successfully started
+info: 2024-09-29 17:20:37: Starting Nest application...
+info: 2024-09-29 17:20:37: WinstonModule dependencies initialized
+info: 2024-09-29 17:20:37: TasksModule dependencies initialized
+info: 2024-09-29 17:20:37: AppModule dependencies initialized
+info: 2024-09-29 17:20:37: AppController {/}:
+info: 2024-09-29 17:20:37: Mapped {/, GET} route
+info: 2024-09-29 17:20:37: Nest application successfully started
+info: 2024-09-29 17:21:17: Starting Nest application...
+info: 2024-09-29 17:21:17: WinstonModule dependencies initialized
+info: 2024-09-29 17:21:17: TasksModule dependencies initialized
+info: 2024-09-29 17:21:17: AppModule dependencies initialized
+info: 2024-09-29 17:21:17: DiscoveryModule dependencies initialized
+info: 2024-09-29 17:21:17: ScheduleModule dependencies initialized
+info: 2024-09-29 17:21:18: AppController {/}:
+info: 2024-09-29 17:21:18: Mapped {/, GET} route
+info: 2024-09-29 17:21:18: Nest application successfully started
+info: 2024-09-29 17:21:45: 上传日志
+error: 2024-09-29 17:21:45: (0 , dayjs_1.default) is not a function
+info: 2024-09-29 17:22:41: Starting Nest application...
+info: 2024-09-29 17:22:41: WinstonModule dependencies initialized
+info: 2024-09-29 17:22:41: TasksModule dependencies initialized
+info: 2024-09-29 17:22:41: AppModule dependencies initialized
+info: 2024-09-29 17:22:41: DiscoveryModule dependencies initialized
+info: 2024-09-29 17:22:41: ScheduleModule dependencies initialized
+info: 2024-09-29 17:22:41: AppController {/}:
+info: 2024-09-29 17:22:41: Mapped {/, GET} route
+info: 2024-09-29 17:22:41: Nest application successfully started
+info: 2024-09-29 17:22:45: 上传日志
+info: 2024-09-29 17:22:45: 上传成功
+info: 2024-09-29 17:22:45: {"content":{"name":"info-2024-09-29 17:22:45.log","path":"ndzy-serve/2024-09-29/info-2024-09-29 17:22:45.log","sha":"41239b691ee7399c7a24457b1c71ad7aa7a43c54","size":5314,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/info-2024-09-29%2017:22:45.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/info-2024-09-29%2017:22:45.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/41239b691ee7399c7a24457b1c71ad7aa7a43c54","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-serve/2024-09-29/info-2024-09-29%2017%3A22%3A45.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/info-2024-09-29%2017:22:45.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/41239b691ee7399c7a24457b1c71ad7aa7a43c54","html":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/info-2024-09-29%2017:22:45.log"}},"commit":{"sha":"389b37370a518165dd08972bb28924bc9c690ff9","node_id":"C_kwDOM4qzi9oAKDM4OWIzNzM3MGE1MTgxNjVkZDA4OTcyYmIyODkyNGJjOWM2OTBmZjk","url":"https://api.github.com/repos/ndzy01/logs/git/commits/389b37370a518165dd08972bb28924bc9c690ff9","html_url":"https://github.com/ndzy01/logs/commit/389b37370a518165dd08972bb28924bc9c690ff9","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:22:45Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:22:45Z"},"tree":{"sha":"67ee8bd2719100f3f4d18b7e708203473fd41770","url":"https://api.github.com/repos/ndzy01/logs/git/trees/67ee8bd2719100f3f4d18b7e708203473fd41770"},"message":"ndzy-serve 更新日志 2024-09-29 17:22:45","parents":[{"sha":"63b72fc2dac8f663ff353b11b60d70d5c910b0f7","url":"https://api.github.com/repos/ndzy01/logs/git/commits/63b72fc2dac8f663ff353b11b60d70d5c910b0f7","html_url":"https://github.com/ndzy01/logs/commit/63b72fc2dac8f663ff353b11b60d70d5c910b0f7"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-29 17:23:45: 上传日志
+info: 2024-09-29 17:23:45: 上传成功
+info: 2024-09-29 17:23:45: {"content":{"name":"info-2024-09-29 17:23:45.log","path":"ndzy-serve/2024-09-29/info-2024-09-29 17:23:45.log","sha":"0ace732e7bd0eb79734c912a8a531a263d9dff26","size":7511,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/info-2024-09-29%2017:23:45.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/info-2024-09-29%2017:23:45.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/0ace732e7bd0eb79734c912a8a531a263d9dff26","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-serve/2024-09-29/info-2024-09-29%2017%3A23%3A45.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/info-2024-09-29%2017:23:45.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/0ace732e7bd0eb79734c912a8a531a263d9dff26","html":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/info-2024-09-29%2017:23:45.log"}},"commit":{"sha":"c346d7ee562a37b81ceacd68cbdcb505e46756fd","node_id":"C_kwDOM4qzi9oAKGMzNDZkN2VlNTYyYTM3YjgxY2VhY2Q2OGNiZGNiNTA1ZTQ2NzU2ZmQ","url":"https://api.github.com/repos/ndzy01/logs/git/commits/c346d7ee562a37b81ceacd68cbdcb505e46756fd","html_url":"https://github.com/ndzy01/logs/commit/c346d7ee562a37b81ceacd68cbdcb505e46756fd","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:23:45Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:23:45Z"},"tree":{"sha":"2b6544e5cec66b3a3c3995afa2435db7c33974fa","url":"https://api.github.com/repos/ndzy01/logs/git/trees/2b6544e5cec66b3a3c3995afa2435db7c33974fa"},"message":"ndzy-serve 更新日志 2024-09-29 17:23:45","parents":[{"sha":"389b37370a518165dd08972bb28924bc9c690ff9","url":"https://api.github.com/repos/ndzy01/logs/git/commits/389b37370a518165dd08972bb28924bc9c690ff9","html_url":"https://github.com/ndzy01/logs/commit/389b37370a518165dd08972bb28924bc9c690ff9"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-29 17:24:17: Starting Nest application...
+info: 2024-09-29 17:24:17: WinstonModule dependencies initialized
+info: 2024-09-29 17:24:17: TasksModule dependencies initialized
+info: 2024-09-29 17:24:17: AppModule dependencies initialized
+info: 2024-09-29 17:24:17: DiscoveryModule dependencies initialized
+info: 2024-09-29 17:24:17: ScheduleModule dependencies initialized
+info: 2024-09-29 17:24:17: AppController {/}:
+info: 2024-09-29 17:24:17: Mapped {/, GET} route
+info: 2024-09-29 17:24:17: Nest application successfully started
+info: 2024-09-29 17:24:45: 上传日志
+info: 2024-09-29 17:24:45: 上传成功
+info: 2024-09-29 17:24:45: {"content":{"name":"info-2024-09-29 17:24:45.log","path":"ndzy-serve/2024-09-29/info-2024-09-29 17:24:45.log","sha":"8a9a31df77c3320e0f3340d5b8c64ffbc0a098d0","size":10251,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/info-2024-09-29%2017:24:45.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/info-2024-09-29%2017:24:45.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/8a9a31df77c3320e0f3340d5b8c64ffbc0a098d0","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-serve/2024-09-29/info-2024-09-29%2017%3A24%3A45.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/info-2024-09-29%2017:24:45.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/8a9a31df77c3320e0f3340d5b8c64ffbc0a098d0","html":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/info-2024-09-29%2017:24:45.log"}},"commit":{"sha":"d85d16e138da2d711d83cafb4d36718baba6e421","node_id":"C_kwDOM4qzi9oAKGQ4NWQxNmUxMzhkYTJkNzExZDgzY2FmYjRkMzY3MThiYWJhNmU0MjE","url":"https://api.github.com/repos/ndzy01/logs/git/commits/d85d16e138da2d711d83cafb4d36718baba6e421","html_url":"https://github.com/ndzy01/logs/commit/d85d16e138da2d711d83cafb4d36718baba6e421","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:24:45Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:24:45Z"},"tree":{"sha":"ca6e1b380ef3180af66a54572f931b8e9d6aad30","url":"https://api.github.com/repos/ndzy01/logs/git/trees/ca6e1b380ef3180af66a54572f931b8e9d6aad30"},"message":"ndzy-serve 更新日志 2024-09-29 17:24:45","parents":[{"sha":"c346d7ee562a37b81ceacd68cbdcb505e46756fd","url":"https://api.github.com/repos/ndzy01/logs/git/commits/c346d7ee562a37b81ceacd68cbdcb505e46756fd","html_url":"https://github.com/ndzy01/logs/commit/c346d7ee562a37b81ceacd68cbdcb505e46756fd"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-29 17:24:51: Starting Nest application...
+info: 2024-09-29 17:24:51: WinstonModule dependencies initialized
+info: 2024-09-29 17:24:51: TasksModule dependencies initialized
+info: 2024-09-29 17:24:51: AppModule dependencies initialized
+info: 2024-09-29 17:24:51: DiscoveryModule dependencies initialized
+info: 2024-09-29 17:24:51: ScheduleModule dependencies initialized
+info: 2024-09-29 17:24:51: AppController {/}:
+info: 2024-09-29 17:24:51: Mapped {/, GET} route
+info: 2024-09-29 17:24:51: Nest application successfully started
+info: 2024-09-29 17:25:05: Starting Nest application...
+info: 2024-09-29 17:25:05: WinstonModule dependencies initialized
+info: 2024-09-29 17:25:05: TasksModule dependencies initialized
+info: 2024-09-29 17:25:05: AppModule dependencies initialized
+info: 2024-09-29 17:25:05: DiscoveryModule dependencies initialized
+info: 2024-09-29 17:25:05: ScheduleModule dependencies initialized
+info: 2024-09-29 17:25:05: AppController {/}:
+info: 2024-09-29 17:25:05: Mapped {/, GET} route
+info: 2024-09-29 17:25:05: Nest application successfully started
+info: 2024-09-29 17:25:45: 上传日志
+info: 2024-09-29 17:25:46: 上传成功
+info: 2024-09-29 17:25:46: {"content":{"name":"info-2024-09-29 17:25:45.log","path":"ndzy-serve/2024-09-29/info-2024-09-29 17:25:45.log","sha":"37569bc59555d9ab597d7968a0569efbd0e8217c","size":13535,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/info-2024-09-29%2017:25:45.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/info-2024-09-29%2017:25:45.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/37569bc59555d9ab597d7968a0569efbd0e8217c","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-serve/2024-09-29/info-2024-09-29%2017%3A25%3A45.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/info-2024-09-29%2017:25:45.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/37569bc59555d9ab597d7968a0569efbd0e8217c","html":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/info-2024-09-29%2017:25:45.log"}},"commit":{"sha":"39b4f7eb02ddc84e482165e70dd2e99fcac42734","node_id":"C_kwDOM4qzi9oAKDM5YjRmN2ViMDJkZGM4NGU0ODIxNjVlNzBkZDJlOTlmY2FjNDI3MzQ","url":"https://api.github.com/repos/ndzy01/logs/git/commits/39b4f7eb02ddc84e482165e70dd2e99fcac42734","html_url":"https://github.com/ndzy01/logs/commit/39b4f7eb02ddc84e482165e70dd2e99fcac42734","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:25:45Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:25:45Z"},"tree":{"sha":"c722a62e97013dcc5b554af9dfd7970c762721a9","url":"https://api.github.com/repos/ndzy01/logs/git/trees/c722a62e97013dcc5b554af9dfd7970c762721a9"},"message":"ndzy-serve 更新日志 2024-09-29 17:25:45","parents":[{"sha":"d85d16e138da2d711d83cafb4d36718baba6e421","url":"https://api.github.com/repos/ndzy01/logs/git/commits/d85d16e138da2d711d83cafb4d36718baba6e421","html_url":"https://github.com/ndzy01/logs/commit/d85d16e138da2d711d83cafb4d36718baba6e421"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-29 17:25:56: Starting Nest application...
+info: 2024-09-29 17:25:56: WinstonModule dependencies initialized
+info: 2024-09-29 17:25:56: TasksModule dependencies initialized
+info: 2024-09-29 17:25:56: AppModule dependencies initialized
+info: 2024-09-29 17:25:56: DiscoveryModule dependencies initialized
+info: 2024-09-29 17:25:56: ScheduleModule dependencies initialized
+info: 2024-09-29 17:25:56: AppController {/}:
+info: 2024-09-29 17:25:56: Mapped {/, GET} route
+info: 2024-09-29 17:25:56: Nest application successfully started
+info: 2024-09-29 17:26:08: Starting Nest application...
+info: 2024-09-29 17:26:08: WinstonModule dependencies initialized
+info: 2024-09-29 17:26:08: TasksModule dependencies initialized
+info: 2024-09-29 17:26:08: AppModule dependencies initialized
+info: 2024-09-29 17:26:08: DiscoveryModule dependencies initialized
+info: 2024-09-29 17:26:08: ScheduleModule dependencies initialized
+info: 2024-09-29 17:26:08: AppController {/}:
+info: 2024-09-29 17:26:08: Mapped {/, GET} route
+info: 2024-09-29 17:26:08: Nest application successfully started
+info: 2024-09-29 17:26:45: 上传日志
+info: 2024-09-29 17:26:46: 上传成功
+info: 2024-09-29 17:26:46: {"content":{"name":"info-2024-09-29 17:26:45.log","path":"ndzy-serve/2024-09-29/info-2024-09-29 17:26:45.log","sha":"01eb4febf1743d54e4113cc5f1e27d6670ce499e","size":16819,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/info-2024-09-29%2017:26:45.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/info-2024-09-29%2017:26:45.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/01eb4febf1743d54e4113cc5f1e27d6670ce499e","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-serve/2024-09-29/info-2024-09-29%2017%3A26%3A45.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/info-2024-09-29%2017:26:45.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/01eb4febf1743d54e4113cc5f1e27d6670ce499e","html":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/info-2024-09-29%2017:26:45.log"}},"commit":{"sha":"fc8d562f01d1779cfb84f1b5765a04e096f994cd","node_id":"C_kwDOM4qzi9oAKGZjOGQ1NjJmMDFkMTc3OWNmYjg0ZjFiNTc2NWEwNGUwOTZmOTk0Y2Q","url":"https://api.github.com/repos/ndzy01/logs/git/commits/fc8d562f01d1779cfb84f1b5765a04e096f994cd","html_url":"https://github.com/ndzy01/logs/commit/fc8d562f01d1779cfb84f1b5765a04e096f994cd","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:26:45Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:26:45Z"},"tree":{"sha":"35be7d49f5e7ec969a56fd6dc551b2acfddae894","url":"https://api.github.com/repos/ndzy01/logs/git/trees/35be7d49f5e7ec969a56fd6dc551b2acfddae894"},"message":"ndzy-serve 更新日志 2024-09-29 17:26:45","parents":[{"sha":"39b4f7eb02ddc84e482165e70dd2e99fcac42734","url":"https://api.github.com/repos/ndzy01/logs/git/commits/39b4f7eb02ddc84e482165e70dd2e99fcac42734","html_url":"https://github.com/ndzy01/logs/commit/39b4f7eb02ddc84e482165e70dd2e99fcac42734"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-29 17:26:46: {"content":{"name":"error-2024-09-29 17:26:45.log","path":"ndzy-serve/2024-09-29/error-2024-09-29 17:26:45.log","sha":"9874711c5ac2d9e2c2f67b2c077649287d9f8ea6","size":68,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/error-2024-09-29%2017:26:45.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/error-2024-09-29%2017:26:45.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/9874711c5ac2d9e2c2f67b2c077649287d9f8ea6","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-serve/2024-09-29/error-2024-09-29%2017%3A26%3A45.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-serve/2024-09-29/error-2024-09-29%2017:26:45.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/9874711c5ac2d9e2c2f67b2c077649287d9f8ea6","html":"https://github.com/ndzy01/logs/blob/main/ndzy-serve/2024-09-29/error-2024-09-29%2017:26:45.log"}},"commit":{"sha":"88b4c45a7646a00d19f322694a1a5e3064d7494a","node_id":"C_kwDOM4qzi9oAKDg4YjRjNDVhNzY0NmEwMGQxOWYzMjI2OTRhMWE1ZTMwNjRkNzQ5NGE","url":"https://api.github.com/repos/ndzy01/logs/git/commits/88b4c45a7646a00d19f322694a1a5e3064d7494a","html_url":"https://github.com/ndzy01/logs/commit/88b4c45a7646a00d19f322694a1a5e3064d7494a","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:26:46Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-29T09:26:46Z"},"tree":{"sha":"64f34fbddc473e247bb602e5fccea6847408ed0f","url":"https://api.github.com/repos/ndzy01/logs/git/trees/64f34fbddc473e247bb602e5fccea6847408ed0f"},"message":"ndzy-serve 更新日志 2024-09-29 17:26:45","parents":[{"sha":"fc8d562f01d1779cfb84f1b5765a04e096f994cd","url":"https://api.github.com/repos/ndzy01/logs/git/commits/fc8d562f01d1779cfb84f1b5765a04e096f994cd","html_url":"https://github.com/ndzy01/logs/commit/fc8d562f01d1779cfb84f1b5765a04e096f994cd"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-29 17:27:45: 上传日志
