@@ -1,0 +1,7 @@
+info: 2024-09-30 10:44:41: Mapped {/img, POST} route
+info: 2024-09-30 10:44:41: Mapped {/img, GET} route
+info: 2024-09-30 10:44:41: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:44:41: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:44:41: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:44:41: Nest application successfully started
+info: 2024-09-30 10:44:42: [INFO] method=GET ip=::1======
