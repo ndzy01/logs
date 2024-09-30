@@ -1,0 +1,219 @@
+info: 2024-09-30 03:07:08: Starting Nest application...
+info: 2024-09-30 03:07:08: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:07:08: MulterModule dependencies initialized
+info: 2024-09-30 03:07:08: JwtModule dependencies initialized
+info: 2024-09-30 03:07:08: WinstonModule dependencies initialized
+info: 2024-09-30 03:07:08: TasksModule dependencies initialized
+info: 2024-09-30 03:07:08: DiscoveryModule dependencies initialized
+info: 2024-09-30 03:07:08: AppModule dependencies initialized
+info: 2024-09-30 03:07:08: ScheduleModule dependencies initialized
+info: 2024-09-30 03:07:09: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 03:07:09: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:07:09: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:07:09: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:07:09: UserModule dependencies initialized
+info: 2024-09-30 03:07:09: ArticleModule dependencies initialized
+info: 2024-09-30 03:07:09: ImgModule dependencies initialized
+info: 2024-09-30 03:07:09: AppController {/}:
+info: 2024-09-30 03:07:09: Mapped {/, GET} route
+info: 2024-09-30 03:07:09: Mapped {/encrypt, GET} route
+info: 2024-09-30 03:07:09: Mapped {/decrypt, GET} route
+info: 2024-09-30 03:07:09: UserController {/user}:
+info: 2024-09-30 03:07:09: Mapped {/user/register, POST} route
+info: 2024-09-30 03:07:09: Mapped {/user/login, POST} route
+info: 2024-09-30 03:07:09: Mapped {/user/:id, GET} route
+info: 2024-09-30 03:07:09: ArticleController {/article}:
+info: 2024-09-30 03:07:09: Mapped {/article, POST} route
+info: 2024-09-30 03:07:09: Mapped {/article, GET} route
+info: 2024-09-30 03:07:09: Mapped {/article/:id, GET} route
+info: 2024-09-30 03:07:09: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 03:07:09: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 03:07:09: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 03:07:09: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 03:07:09: ImgController {/img}:
+info: 2024-09-30 03:07:09: Mapped {/img, POST} route
+info: 2024-09-30 03:07:09: Mapped {/img, POST} route
+info: 2024-09-30 03:07:09: Mapped {/img, GET} route
+info: 2024-09-30 03:07:09: Mapped {/img/:id, GET} route
+info: 2024-09-30 03:07:09: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 03:07:09: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 03:07:09: Nest application successfully started
+info: 2024-09-30 03:11:23: 上传日志
+info: 2024-09-30 03:11:23: [INFO] method=GET ip=1.36.156.68======
+info: 2024-09-30 03:11:23: 上传日志
+info: 2024-09-30 03:11:23: 找到的最后一个有效日志文件: /tmp/logs/info-2024-09-30.log 尝试次数: 0
+info: 2024-09-30 03:11:23: 没有找到任何有效日志文件
+info: 2024-09-30 03:11:24: [INFO] method=GET ip=1.36.156.68 耗时=357ms======
+info: 2024-09-30 03:11:24: "上传成功"
+info: 2024-09-30 03:12:58: Starting Nest application...
+info: 2024-09-30 03:12:58: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:12:58: MulterModule dependencies initialized
+info: 2024-09-30 03:12:58: JwtModule dependencies initialized
+info: 2024-09-30 03:12:58: WinstonModule dependencies initialized
+info: 2024-09-30 03:12:58: TasksModule dependencies initialized
+info: 2024-09-30 03:12:58: DiscoveryModule dependencies initialized
+info: 2024-09-30 03:12:58: AppModule dependencies initialized
+info: 2024-09-30 03:12:58: ScheduleModule dependencies initialized
+info: 2024-09-30 03:12:58: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 03:12:58: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:12:58: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:12:58: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:12:58: UserModule dependencies initialized
+info: 2024-09-30 03:12:58: ArticleModule dependencies initialized
+info: 2024-09-30 03:12:58: ImgModule dependencies initialized
+info: 2024-09-30 03:12:58: AppController {/}:
+info: 2024-09-30 03:12:58: Mapped {/, GET} route
+info: 2024-09-30 03:12:58: Mapped {/encrypt, GET} route
+info: 2024-09-30 03:12:58: Mapped {/decrypt, GET} route
+info: 2024-09-30 03:12:58: UserController {/user}:
+info: 2024-09-30 03:12:58: Mapped {/user/register, POST} route
+info: 2024-09-30 03:12:58: Mapped {/user/login, POST} route
+info: 2024-09-30 03:12:58: Mapped {/user/:id, GET} route
+info: 2024-09-30 03:12:58: ArticleController {/article}:
+info: 2024-09-30 03:12:58: Mapped {/article, POST} route
+info: 2024-09-30 03:12:58: Mapped {/article, GET} route
+info: 2024-09-30 03:12:58: Mapped {/article/:id, GET} route
+info: 2024-09-30 03:12:58: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 03:12:58: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 03:12:58: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 03:12:58: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 03:12:58: ImgController {/img}:
+info: 2024-09-30 03:12:58: Mapped {/img, POST} route
+info: 2024-09-30 03:12:58: Mapped {/img, POST} route
+info: 2024-09-30 03:12:58: Mapped {/img, GET} route
+info: 2024-09-30 03:12:58: Mapped {/img/:id, GET} route
+info: 2024-09-30 03:12:58: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 03:12:58: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 03:12:58: Nest application successfully started
+info: 2024-09-30 03:15:22: [INFO] method=GET ip=1.36.156.68======
+info: 2024-09-30 03:15:22: 上传日志
+info: 2024-09-30 03:15:22: 找到的最后一个有效日志文件: /tmp/logs/info-2024-09-30.log 尝试次数: 0
+info: 2024-09-30 03:15:22: 没有找到任何有效日志文件
+info: 2024-09-30 03:15:22: [INFO] method=GET ip=1.36.156.68 耗时=237ms======
+info: 2024-09-30 03:15:42: 上传成功
+info: 2024-09-30 03:15:42: {"content":{"name":"info-2024-09-30 03:15:22.log","path":"ndzy-s/2024-09-30/info-2024-09-30 03:15:22.log","sha":"e1768477f68ac9cd56421c4d9fe668795a68a2a5","size":5325,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:15:22.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:15:22.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/e1768477f68ac9cd56421c4d9fe668795a68a2a5","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-09-30/info-2024-09-30%2003%3A15%3A22.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:15:22.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/e1768477f68ac9cd56421c4d9fe668795a68a2a5","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:15:22.log"}},"commit":{"sha":"e5f1a2e28278334269c0af58d654d348cb5e8b25","node_id":"C_kwDOM4qzi9oAKGU1ZjFhMmUyODI3ODMzNDI2OWMwYWY1OGQ2NTRkMzQ4Y2I1ZThiMjU","url":"https://api.github.com/repos/ndzy01/logs/git/commits/e5f1a2e28278334269c0af58d654d348cb5e8b25","html_url":"https://github.com/ndzy01/logs/commit/e5f1a2e28278334269c0af58d654d348cb5e8b25","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:15:22Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:15:22Z"},"tree":{"sha":"1f7c6f96d9f76b2e47f8002bab0e49e5cf7b51a5","url":"https://api.github.com/repos/ndzy01/logs/git/trees/1f7c6f96d9f76b2e47f8002bab0e49e5cf7b51a5"},"message":"ndzy-s 更新日志 2024-09-30 03:15:22","parents":[{"sha":"08bacc58c386b58a8039f8c93861c6aa7c3859b7","url":"https://api.github.com/repos/ndzy01/logs/git/commits/08bacc58c386b58a8039f8c93861c6aa7c3859b7","html_url":"https://github.com/ndzy01/logs/commit/08bacc58c386b58a8039f8c93861c6aa7c3859b7"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-30 03:15:42: [INFO] method=GET ip=1.36.156.68======
+info: 2024-09-30 03:15:42: 上传日志
+info: 2024-09-30 03:15:43: 找到的最后一个有效日志文件: /tmp/logs/info-2024-09-30.log 尝试次数: 0
+info: 2024-09-30 03:15:43: 没有找到任何有效日志文件
+info: 2024-09-30 03:15:43: [INFO] method=GET ip=1.36.156.68 耗时=354ms======
+info: 2024-09-30 03:15:59: 上传成功
+info: 2024-09-30 03:15:59: {"content":{"name":"info-2024-09-30 03:15:43.log","path":"ndzy-s/2024-09-30/info-2024-09-30 03:15:43.log","sha":"22d4c63a55a3f7097bb220fc43cc3382c9f5af68","size":5662,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:15:43.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:15:43.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/22d4c63a55a3f7097bb220fc43cc3382c9f5af68","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-09-30/info-2024-09-30%2003%3A15%3A43.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:15:43.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/22d4c63a55a3f7097bb220fc43cc3382c9f5af68","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:15:43.log"}},"commit":{"sha":"3f679b2df37f9eb591eb69d65921e983ee00d8d7","node_id":"C_kwDOM4qzi9oAKDNmNjc5YjJkZjM3ZjllYjU5MWViNjlkNjU5MjFlOTgzZWUwMGQ4ZDc","url":"https://api.github.com/repos/ndzy01/logs/git/commits/3f679b2df37f9eb591eb69d65921e983ee00d8d7","html_url":"https://github.com/ndzy01/logs/commit/3f679b2df37f9eb591eb69d65921e983ee00d8d7","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:15:43Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:15:43Z"},"tree":{"sha":"81e93676f42660f2331b5f3242c60c02dbd73596","url":"https://api.github.com/repos/ndzy01/logs/git/trees/81e93676f42660f2331b5f3242c60c02dbd73596"},"message":"ndzy-s 更新日志 2024-09-30 03:15:43","parents":[{"sha":"e5f1a2e28278334269c0af58d654d348cb5e8b25","url":"https://api.github.com/repos/ndzy01/logs/git/commits/e5f1a2e28278334269c0af58d654d348cb5e8b25","html_url":"https://github.com/ndzy01/logs/commit/e5f1a2e28278334269c0af58d654d348cb5e8b25"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-30 03:17:24: [INFO] method=GET ip=1.36.156.68======
+info: 2024-09-30 03:17:24: 上传日志
+info: 2024-09-30 03:17:24: 找到的最后一个有效日志文件: /tmp/logs/info-2024-09-30.log 尝试次数: 0
+info: 2024-09-30 03:17:24: 没有找到任何有效日志文件
+info: 2024-09-30 03:17:25: [INFO] method=GET ip=1.36.156.68 耗时=353ms======
+info: 2024-09-30 03:17:27: 上传成功
+info: 2024-09-30 03:17:27: {"content":{"name":"info-2024-09-30 03:17:24.log","path":"ndzy-s/2024-09-30/info-2024-09-30 03:17:24.log","sha":"bcc9ece4747d6168f8d5202c22ad670813e1ae35","size":10309,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:17:24.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:17:24.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/bcc9ece4747d6168f8d5202c22ad670813e1ae35","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-09-30/info-2024-09-30%2003%3A17%3A24.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:17:24.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/bcc9ece4747d6168f8d5202c22ad670813e1ae35","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:17:24.log"}},"commit":{"sha":"250864a70da3ebc6102bd69b6f9c5719807836ee","node_id":"C_kwDOM4qzi9oAKDI1MDg2NGE3MGRhM2ViYzYxMDJiZDY5YjZmOWM1NzE5ODA3ODM2ZWU","url":"https://api.github.com/repos/ndzy01/logs/git/commits/250864a70da3ebc6102bd69b6f9c5719807836ee","html_url":"https://github.com/ndzy01/logs/commit/250864a70da3ebc6102bd69b6f9c5719807836ee","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:17:25Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:17:25Z"},"tree":{"sha":"b3bf14b3e1d7a5bbf24e5a5acbc70591711c2594","url":"https://api.github.com/repos/ndzy01/logs/git/trees/b3bf14b3e1d7a5bbf24e5a5acbc70591711c2594"},"message":"ndzy-s 更新日志 2024-09-30 03:17:24","parents":[{"sha":"069bbd65401c8ec0bbc294d2b537697a00fd3bf9","url":"https://api.github.com/repos/ndzy01/logs/git/commits/069bbd65401c8ec0bbc294d2b537697a00fd3bf9","html_url":"https://github.com/ndzy01/logs/commit/069bbd65401c8ec0bbc294d2b537697a00fd3bf9"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-30 03:17:27: [INFO] method=GET ip=1.36.156.68======
+info: 2024-09-30 03:17:27: 上传日志
+info: 2024-09-30 03:17:27: 找到的最后一个有效日志文件: /tmp/logs/info-2024-09-30.log 尝试次数: 0
+info: 2024-09-30 03:17:28: 没有找到任何有效日志文件
+info: 2024-09-30 03:17:28: [INFO] method=GET ip=1.36.156.68 耗时=124ms======
+info: 2024-09-30 03:17:28: 上传成功
+info: 2024-09-30 03:17:28: {"content":{"name":"info-2024-09-30 03:17:28.log","path":"ndzy-s/2024-09-30/info-2024-09-30 03:17:28.log","sha":"049c5c5686d5f45f1637704bc1f151767a06e660","size":12802,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:17:28.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:17:28.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/049c5c5686d5f45f1637704bc1f151767a06e660","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-09-30/info-2024-09-30%2003%3A17%3A28.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:17:28.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/049c5c5686d5f45f1637704bc1f151767a06e660","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:17:28.log"}},"commit":{"sha":"653a40116ea235cd0e74cb0bedad41c0d6aa5a54","node_id":"C_kwDOM4qzi9oAKDY1M2E0MDExNmVhMjM1Y2QwZTc0Y2IwYmVkYWQ0MWMwZDZhYTVhNTQ","url":"https://api.github.com/repos/ndzy01/logs/git/commits/653a40116ea235cd0e74cb0bedad41c0d6aa5a54","html_url":"https://github.com/ndzy01/logs/commit/653a40116ea235cd0e74cb0bedad41c0d6aa5a54","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:17:28Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:17:28Z"},"tree":{"sha":"29fda0d62e3da6c5d99e2e9e7193bb415ea7e713","url":"https://api.github.com/repos/ndzy01/logs/git/trees/29fda0d62e3da6c5d99e2e9e7193bb415ea7e713"},"message":"ndzy-s 更新日志 2024-09-30 03:17:28","parents":[{"sha":"250864a70da3ebc6102bd69b6f9c5719807836ee","url":"https://api.github.com/repos/ndzy01/logs/git/commits/250864a70da3ebc6102bd69b6f9c5719807836ee","html_url":"https://github.com/ndzy01/logs/commit/250864a70da3ebc6102bd69b6f9c5719807836ee"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-30 03:17:28: [INFO] method=GET ip=1.36.156.68======
+info: 2024-09-30 03:17:28: 上传日志
+info: 2024-09-30 03:17:28: 找到的最后一个有效日志文件: /tmp/logs/info-2024-09-30.log 尝试次数: 0
+info: 2024-09-30 03:17:28: 没有找到任何有效日志文件
+info: 2024-09-30 03:17:28: [INFO] method=GET ip=1.36.156.68 耗时=146ms======
+info: 2024-09-30 03:18:13: Starting Nest application...
+info: 2024-09-30 03:18:13: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:18:13: MulterModule dependencies initialized
+info: 2024-09-30 03:18:13: JwtModule dependencies initialized
+info: 2024-09-30 03:18:13: WinstonModule dependencies initialized
+info: 2024-09-30 03:18:13: TasksModule dependencies initialized
+info: 2024-09-30 03:18:13: DiscoveryModule dependencies initialized
+info: 2024-09-30 03:18:13: AppModule dependencies initialized
+info: 2024-09-30 03:18:13: ScheduleModule dependencies initialized
+info: 2024-09-30 03:18:14: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 03:18:14: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:18:14: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:18:14: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:18:14: UserModule dependencies initialized
+info: 2024-09-30 03:18:14: ArticleModule dependencies initialized
+info: 2024-09-30 03:18:14: ImgModule dependencies initialized
+info: 2024-09-30 03:18:14: AppController {/}:
+info: 2024-09-30 03:18:14: Mapped {/, GET} route
+info: 2024-09-30 03:18:14: Mapped {/encrypt, GET} route
+info: 2024-09-30 03:18:14: Mapped {/decrypt, GET} route
+info: 2024-09-30 03:18:14: UserController {/user}:
+info: 2024-09-30 03:18:14: Mapped {/user/register, POST} route
+info: 2024-09-30 03:18:14: Mapped {/user/login, POST} route
+info: 2024-09-30 03:18:14: Mapped {/user/:id, GET} route
+info: 2024-09-30 03:18:14: ArticleController {/article}:
+info: 2024-09-30 03:18:14: Mapped {/article, POST} route
+info: 2024-09-30 03:18:14: Mapped {/article, GET} route
+info: 2024-09-30 03:18:14: Mapped {/article/:id, GET} route
+info: 2024-09-30 03:18:14: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 03:18:14: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 03:18:14: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 03:18:14: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 03:18:14: ImgController {/img}:
+info: 2024-09-30 03:18:14: Mapped {/img, POST} route
+info: 2024-09-30 03:18:14: Mapped {/img, POST} route
+info: 2024-09-30 03:18:14: Mapped {/img, GET} route
+info: 2024-09-30 03:18:14: Mapped {/img/:id, GET} route
+info: 2024-09-30 03:18:14: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 03:18:14: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 03:18:14: Nest application successfully started
+info: 2024-09-30 03:18:14: [INFO] method=GET ip=1.36.156.68======
+info: 2024-09-30 03:18:14: 上传日志
+info: 2024-09-30 03:18:14: 找到的最后一个有效日志文件: /tmp/logs/info-2024-09-30.log 尝试次数: 0
+info: 2024-09-30 03:18:14: 没有找到任何有效日志文件
+info: 2024-09-30 03:18:14: [INFO] method=GET ip=1.36.156.68 耗时=323ms======
+info: 2024-09-30 03:18:28: 上传成功
+info: 2024-09-30 03:18:28: {"content":{"name":"info-2024-09-30 03:18:14.log","path":"ndzy-s/2024-09-30/info-2024-09-30 03:18:14.log","sha":"3639520885b167378ec500548fd9834852f03f80","size":18065,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:18:14.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:18:14.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/3639520885b167378ec500548fd9834852f03f80","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-09-30/info-2024-09-30%2003%3A18%3A14.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:18:14.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/3639520885b167378ec500548fd9834852f03f80","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:18:14.log"}},"commit":{"sha":"2dfc8d8911973b6f986977feba287c30beef346d","node_id":"C_kwDOM4qzi9oAKDJkZmM4ZDg5MTE5NzNiNmY5ODY5NzdmZWJhMjg3YzMwYmVlZjM0NmQ","url":"https://api.github.com/repos/ndzy01/logs/git/commits/2dfc8d8911973b6f986977feba287c30beef346d","html_url":"https://github.com/ndzy01/logs/commit/2dfc8d8911973b6f986977feba287c30beef346d","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:18:14Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:18:14Z"},"tree":{"sha":"1d0bc0b09e605fcb486772668fd991fe1d51efa3","url":"https://api.github.com/repos/ndzy01/logs/git/trees/1d0bc0b09e605fcb486772668fd991fe1d51efa3"},"message":"ndzy-s 更新日志 2024-09-30 03:18:14","parents":[{"sha":"f4e9ee8fb713ad00b655fbbaf1a8ad27d691e797","url":"https://api.github.com/repos/ndzy01/logs/git/commits/f4e9ee8fb713ad00b655fbbaf1a8ad27d691e797","html_url":"https://github.com/ndzy01/logs/commit/f4e9ee8fb713ad00b655fbbaf1a8ad27d691e797"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-30 03:19:17: [INFO] method=GET ip=1.36.156.68======
+info: 2024-09-30 03:19:17: 上传日志
+info: 2024-09-30 03:19:18: 找到的最后一个有效日志文件: /tmp/logs/info-2024-09-30.log 尝试次数: 0
+info: 2024-09-30 03:19:18: 没有找到任何有效日志文件
+info: 2024-09-30 03:19:18: [INFO] method=GET ip=1.36.156.68 耗时=493ms======
+info: 2024-09-30 03:19:41: Starting Nest application...
+info: 2024-09-30 03:19:41: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:19:41: MulterModule dependencies initialized
+info: 2024-09-30 03:19:41: JwtModule dependencies initialized
+info: 2024-09-30 03:19:41: WinstonModule dependencies initialized
+info: 2024-09-30 03:19:41: TasksModule dependencies initialized
+info: 2024-09-30 03:19:41: DiscoveryModule dependencies initialized
+info: 2024-09-30 03:19:41: AppModule dependencies initialized
+info: 2024-09-30 03:19:41: ScheduleModule dependencies initialized
+info: 2024-09-30 03:19:42: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 03:19:42: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:19:42: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:19:42: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:19:42: UserModule dependencies initialized
+info: 2024-09-30 03:19:42: ArticleModule dependencies initialized
+info: 2024-09-30 03:19:42: ImgModule dependencies initialized
+info: 2024-09-30 03:19:42: AppController {/}:
+info: 2024-09-30 03:19:42: Mapped {/, GET} route
+info: 2024-09-30 03:19:42: Mapped {/encrypt, GET} route
+info: 2024-09-30 03:19:42: Mapped {/decrypt, GET} route
+info: 2024-09-30 03:19:42: UserController {/user}:
+info: 2024-09-30 03:19:42: Mapped {/user/register, POST} route
+info: 2024-09-30 03:19:42: Mapped {/user/login, POST} route
+info: 2024-09-30 03:19:42: Mapped {/user/:id, GET} route
+info: 2024-09-30 03:19:42: ArticleController {/article}:
+info: 2024-09-30 03:19:42: Mapped {/article, POST} route
+info: 2024-09-30 03:19:42: Mapped {/article, GET} route
+info: 2024-09-30 03:19:42: Mapped {/article/:id, GET} route
+info: 2024-09-30 03:19:42: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 03:19:42: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 03:19:42: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 03:19:42: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 03:19:42: ImgController {/img}:
+info: 2024-09-30 03:19:42: Mapped {/img, POST} route
+info: 2024-09-30 03:19:42: Mapped {/img, POST} route
+info: 2024-09-30 03:19:42: Mapped {/img, GET} route
+info: 2024-09-30 03:19:42: Mapped {/img/:id, GET} route
+info: 2024-09-30 03:19:42: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 03:19:42: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 03:19:42: Nest application successfully started
+info: 2024-09-30 03:19:42: [INFO] method=GET ip=1.36.156.68======
+info: 2024-09-30 03:19:42: 上传日志
+info: 2024-09-30 03:19:42: 找到的最后一个有效日志文件: /tmp/logs/info-2024-09-30.log 尝试次数: 0
+info: 2024-09-30 03:19:42: 没有找到任何有效日志文件
+info: 2024-09-30 03:19:42: [INFO] method=GET ip=1.36.156.68 耗时=197ms======
+info: 2024-09-30 03:19:43: 上传成功
+info: 2024-09-30 03:19:43: {"content":{"name":"info-2024-09-30 03:19:42.log","path":"ndzy-s/2024-09-30/info-2024-09-30 03:19:42.log","sha":"516edc7587f1a31390e5a979b9329aedf3cdde57","size":23328,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:19:42.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:19:42.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/516edc7587f1a31390e5a979b9329aedf3cdde57","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-09-30/info-2024-09-30%2003%3A19%3A42.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2003:19:42.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/516edc7587f1a31390e5a979b9329aedf3cdde57","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2003:19:42.log"}},"commit":{"sha":"65216780e8635710191396192cc2ea884bac5193","node_id":"C_kwDOM4qzi9oAKDY1MjE2NzgwZTg2MzU3MTAxOTEzOTYxOTJjYzJlYTg4NGJhYzUxOTM","url":"https://api.github.com/repos/ndzy01/logs/git/commits/65216780e8635710191396192cc2ea884bac5193","html_url":"https://github.com/ndzy01/logs/commit/65216780e8635710191396192cc2ea884bac5193","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:19:42Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T03:19:42Z"},"tree":{"sha":"56cb945588b37ae21f62be688a922b02609bb1ea","url":"https://api.github.com/repos/ndzy01/logs/git/trees/56cb945588b37ae21f62be688a922b02609bb1ea"},"message":"ndzy-s 更新日志 2024-09-30 03:19:42","parents":[{"sha":"d4e33daff922b47b63c30776c229e57e0d52fa21","url":"https://api.github.com/repos/ndzy01/logs/git/commits/d4e33daff922b47b63c30776c229e57e0d52fa21","html_url":"https://github.com/ndzy01/logs/commit/d4e33daff922b47b63c30776c229e57e0d52fa21"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
