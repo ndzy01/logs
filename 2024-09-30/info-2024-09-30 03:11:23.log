@@ -1,0 +1,40 @@
+info: 2024-09-30 03:07:08: Starting Nest application...
+info: 2024-09-30 03:07:08: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:07:08: MulterModule dependencies initialized
+info: 2024-09-30 03:07:08: JwtModule dependencies initialized
+info: 2024-09-30 03:07:08: WinstonModule dependencies initialized
+info: 2024-09-30 03:07:08: TasksModule dependencies initialized
+info: 2024-09-30 03:07:08: DiscoveryModule dependencies initialized
+info: 2024-09-30 03:07:08: AppModule dependencies initialized
+info: 2024-09-30 03:07:08: ScheduleModule dependencies initialized
+info: 2024-09-30 03:07:09: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 03:07:09: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:07:09: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:07:09: TypeOrmModule dependencies initialized
+info: 2024-09-30 03:07:09: UserModule dependencies initialized
+info: 2024-09-30 03:07:09: ArticleModule dependencies initialized
+info: 2024-09-30 03:07:09: ImgModule dependencies initialized
+info: 2024-09-30 03:07:09: AppController {/}:
+info: 2024-09-30 03:07:09: Mapped {/, GET} route
+info: 2024-09-30 03:07:09: Mapped {/encrypt, GET} route
+info: 2024-09-30 03:07:09: Mapped {/decrypt, GET} route
+info: 2024-09-30 03:07:09: UserController {/user}:
+info: 2024-09-30 03:07:09: Mapped {/user/register, POST} route
+info: 2024-09-30 03:07:09: Mapped {/user/login, POST} route
+info: 2024-09-30 03:07:09: Mapped {/user/:id, GET} route
+info: 2024-09-30 03:07:09: ArticleController {/article}:
+info: 2024-09-30 03:07:09: Mapped {/article, POST} route
+info: 2024-09-30 03:07:09: Mapped {/article, GET} route
+info: 2024-09-30 03:07:09: Mapped {/article/:id, GET} route
+info: 2024-09-30 03:07:09: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 03:07:09: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 03:07:09: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 03:07:09: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 03:07:09: ImgController {/img}:
+info: 2024-09-30 03:07:09: Mapped {/img, POST} route
+info: 2024-09-30 03:07:09: Mapped {/img, POST} route
+info: 2024-09-30 03:07:09: Mapped {/img, GET} route
+info: 2024-09-30 03:07:09: Mapped {/img/:id, GET} route
+info: 2024-09-30 03:07:09: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 03:07:09: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 03:07:09: Nest application successfully started
