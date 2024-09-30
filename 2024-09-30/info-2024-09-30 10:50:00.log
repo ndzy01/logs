@@ -1,0 +1,720 @@
+info: 2024-09-30 10:02:01: Starting Nest application...
+info: 2024-09-30 10:02:01: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:02:01: MulterModule dependencies initialized
+info: 2024-09-30 10:02:01: JwtModule dependencies initialized
+info: 2024-09-30 10:02:01: WinstonModule dependencies initialized
+info: 2024-09-30 10:02:01: TasksModule dependencies initialized
+info: 2024-09-30 10:02:01: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:02:01: AppModule dependencies initialized
+info: 2024-09-30 10:02:01: ScheduleModule dependencies initialized
+info: 2024-09-30 10:02:07: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:02:07: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:02:07: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:02:07: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:02:07: UserModule dependencies initialized
+info: 2024-09-30 10:02:07: ArticleModule dependencies initialized
+info: 2024-09-30 10:02:07: ImgModule dependencies initialized
+info: 2024-09-30 10:02:07: AppController {/}:
+info: 2024-09-30 10:02:07: Mapped {/, GET} route
+info: 2024-09-30 10:02:07: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:02:07: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:02:07: UserController {/user}:
+info: 2024-09-30 10:02:07: Mapped {/user/register, POST} route
+info: 2024-09-30 10:02:07: Mapped {/user/login, POST} route
+info: 2024-09-30 10:02:07: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:02:07: ArticleController {/article}:
+info: 2024-09-30 10:02:07: Mapped {/article, POST} route
+info: 2024-09-30 10:02:07: Mapped {/article, GET} route
+info: 2024-09-30 10:02:07: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:02:07: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:02:07: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:02:07: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:02:07: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:02:07: ImgController {/img}:
+info: 2024-09-30 10:02:07: Mapped {/img, POST} route
+info: 2024-09-30 10:02:07: Mapped {/img, POST} route
+info: 2024-09-30 10:02:07: Mapped {/img, GET} route
+info: 2024-09-30 10:02:07: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:02:07: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:02:07: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:02:07: Nest application successfully started
+info: 2024-09-30 10:02:20: [INFO] method=GET ip=::1======
+info: 2024-09-30 10:02:20: [INFO] method=GET ip=::1 耗时=1ms======
+info: 2024-09-30 10:05:03: Starting Nest application...
+info: 2024-09-30 10:05:03: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:05:03: MulterModule dependencies initialized
+info: 2024-09-30 10:05:03: JwtModule dependencies initialized
+info: 2024-09-30 10:05:03: WinstonModule dependencies initialized
+info: 2024-09-30 10:05:03: TasksModule dependencies initialized
+info: 2024-09-30 10:05:03: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:05:03: AppModule dependencies initialized
+info: 2024-09-30 10:05:03: ScheduleModule dependencies initialized
+info: 2024-09-30 10:05:09: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:05:09: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:05:09: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:05:09: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:05:09: UserModule dependencies initialized
+info: 2024-09-30 10:05:09: ArticleModule dependencies initialized
+info: 2024-09-30 10:05:09: ImgModule dependencies initialized
+info: 2024-09-30 10:05:09: AppController {/}:
+info: 2024-09-30 10:05:09: Mapped {/, GET} route
+info: 2024-09-30 10:05:09: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:05:09: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:05:09: UserController {/user}:
+info: 2024-09-30 10:05:09: Mapped {/user/register, POST} route
+info: 2024-09-30 10:05:09: Mapped {/user/login, POST} route
+info: 2024-09-30 10:05:09: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:05:09: ArticleController {/article}:
+info: 2024-09-30 10:05:09: Mapped {/article, POST} route
+info: 2024-09-30 10:05:09: Mapped {/article, GET} route
+info: 2024-09-30 10:05:09: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:05:09: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:05:09: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:05:09: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:05:09: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:05:09: ImgController {/img}:
+info: 2024-09-30 10:05:09: Mapped {/img, POST} route
+info: 2024-09-30 10:05:09: Mapped {/img, POST} route
+info: 2024-09-30 10:05:09: Mapped {/img, GET} route
+info: 2024-09-30 10:05:09: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:05:09: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:05:09: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:05:09: Nest application successfully started
+info: 2024-09-30 10:06:38: Starting Nest application...
+info: 2024-09-30 10:06:38: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:06:38: MulterModule dependencies initialized
+info: 2024-09-30 10:06:38: JwtModule dependencies initialized
+info: 2024-09-30 10:06:38: WinstonModule dependencies initialized
+info: 2024-09-30 10:06:38: TasksModule dependencies initialized
+info: 2024-09-30 10:06:38: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:06:38: AppModule dependencies initialized
+info: 2024-09-30 10:06:38: ScheduleModule dependencies initialized
+info: 2024-09-30 10:06:44: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:06:44: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:06:44: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:06:44: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:06:44: UserModule dependencies initialized
+info: 2024-09-30 10:06:44: ArticleModule dependencies initialized
+info: 2024-09-30 10:06:44: ImgModule dependencies initialized
+info: 2024-09-30 10:06:44: AppController {/}:
+info: 2024-09-30 10:06:44: Mapped {/, GET} route
+info: 2024-09-30 10:06:44: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:06:44: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:06:44: UserController {/user}:
+info: 2024-09-30 10:06:44: Mapped {/user/register, POST} route
+info: 2024-09-30 10:06:44: Mapped {/user/login, POST} route
+info: 2024-09-30 10:06:44: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:06:44: ArticleController {/article}:
+info: 2024-09-30 10:06:44: Mapped {/article, POST} route
+info: 2024-09-30 10:06:44: Mapped {/article, GET} route
+info: 2024-09-30 10:06:44: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:06:44: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:06:44: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:06:44: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:06:44: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:06:44: ImgController {/img}:
+info: 2024-09-30 10:06:44: Mapped {/img, POST} route
+info: 2024-09-30 10:06:44: Mapped {/img, POST} route
+info: 2024-09-30 10:06:44: Mapped {/img, GET} route
+info: 2024-09-30 10:06:44: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:06:44: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:06:44: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:06:44: Nest application successfully started
+info: 2024-09-30 10:06:45: Starting Nest application...
+info: 2024-09-30 10:06:45: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:06:45: MulterModule dependencies initialized
+info: 2024-09-30 10:06:45: JwtModule dependencies initialized
+info: 2024-09-30 10:06:45: WinstonModule dependencies initialized
+info: 2024-09-30 10:06:45: TasksModule dependencies initialized
+info: 2024-09-30 10:06:45: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:06:45: AppModule dependencies initialized
+info: 2024-09-30 10:06:45: ScheduleModule dependencies initialized
+info: 2024-09-30 10:06:52: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:06:52: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:06:52: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:06:52: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:06:52: UserModule dependencies initialized
+info: 2024-09-30 10:06:52: ArticleModule dependencies initialized
+info: 2024-09-30 10:06:52: ImgModule dependencies initialized
+info: 2024-09-30 10:06:52: AppController {/}:
+info: 2024-09-30 10:06:52: Mapped {/, GET} route
+info: 2024-09-30 10:06:52: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:06:52: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:06:52: UserController {/user}:
+info: 2024-09-30 10:06:52: Mapped {/user/register, POST} route
+info: 2024-09-30 10:06:52: Mapped {/user/login, POST} route
+info: 2024-09-30 10:06:52: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:06:52: ArticleController {/article}:
+info: 2024-09-30 10:06:52: Mapped {/article, POST} route
+info: 2024-09-30 10:06:52: Mapped {/article, GET} route
+info: 2024-09-30 10:06:52: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:06:52: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:06:52: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:06:52: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:06:52: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:06:52: ImgController {/img}:
+info: 2024-09-30 10:06:52: Mapped {/img, POST} route
+info: 2024-09-30 10:06:52: Mapped {/img, POST} route
+info: 2024-09-30 10:06:52: Mapped {/img, GET} route
+info: 2024-09-30 10:06:52: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:06:52: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:06:52: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:06:52: Nest application successfully started
+info: 2024-09-30 10:07:00: Starting Nest application...
+info: 2024-09-30 10:07:00: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:07:00: MulterModule dependencies initialized
+info: 2024-09-30 10:07:00: JwtModule dependencies initialized
+info: 2024-09-30 10:07:00: WinstonModule dependencies initialized
+info: 2024-09-30 10:07:00: TasksModule dependencies initialized
+info: 2024-09-30 10:07:00: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:07:00: AppModule dependencies initialized
+info: 2024-09-30 10:07:00: ScheduleModule dependencies initialized
+info: 2024-09-30 10:07:06: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:07:06: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:07:06: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:07:06: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:07:06: UserModule dependencies initialized
+info: 2024-09-30 10:07:06: ArticleModule dependencies initialized
+info: 2024-09-30 10:07:06: ImgModule dependencies initialized
+info: 2024-09-30 10:07:06: AppController {/}:
+info: 2024-09-30 10:07:06: Mapped {/, GET} route
+info: 2024-09-30 10:07:06: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:07:06: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:07:06: UserController {/user}:
+info: 2024-09-30 10:07:06: Mapped {/user/register, POST} route
+info: 2024-09-30 10:07:06: Mapped {/user/login, POST} route
+info: 2024-09-30 10:07:06: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:07:06: ArticleController {/article}:
+info: 2024-09-30 10:07:06: Mapped {/article, POST} route
+info: 2024-09-30 10:07:06: Mapped {/article, GET} route
+info: 2024-09-30 10:07:06: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:07:06: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:07:06: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:07:06: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:07:06: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:07:06: ImgController {/img}:
+info: 2024-09-30 10:07:06: Mapped {/img, POST} route
+info: 2024-09-30 10:07:06: Mapped {/img, POST} route
+info: 2024-09-30 10:07:06: Mapped {/img, GET} route
+info: 2024-09-30 10:07:06: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:07:06: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:07:06: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:07:06: Nest application successfully started
+info: 2024-09-30 10:08:12: Starting Nest application...
+info: 2024-09-30 10:08:12: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:12: MulterModule dependencies initialized
+info: 2024-09-30 10:08:12: JwtModule dependencies initialized
+info: 2024-09-30 10:08:12: WinstonModule dependencies initialized
+info: 2024-09-30 10:08:12: TasksModule dependencies initialized
+info: 2024-09-30 10:08:12: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:08:12: AppModule dependencies initialized
+info: 2024-09-30 10:08:12: ScheduleModule dependencies initialized
+info: 2024-09-30 10:08:18: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:08:18: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:18: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:18: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:18: UserModule dependencies initialized
+info: 2024-09-30 10:08:18: ArticleModule dependencies initialized
+info: 2024-09-30 10:08:18: ImgModule dependencies initialized
+info: 2024-09-30 10:08:18: AppController {/}:
+info: 2024-09-30 10:08:18: Mapped {/, GET} route
+info: 2024-09-30 10:08:18: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:08:18: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:08:18: UserController {/user}:
+info: 2024-09-30 10:08:18: Mapped {/user/register, POST} route
+info: 2024-09-30 10:08:18: Mapped {/user/login, POST} route
+info: 2024-09-30 10:08:18: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:08:18: ArticleController {/article}:
+info: 2024-09-30 10:08:18: Mapped {/article, POST} route
+info: 2024-09-30 10:08:18: Mapped {/article, GET} route
+info: 2024-09-30 10:08:18: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:08:18: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:08:18: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:08:18: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:08:18: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:08:18: ImgController {/img}:
+info: 2024-09-30 10:08:18: Mapped {/img, POST} route
+info: 2024-09-30 10:08:18: Mapped {/img, POST} route
+info: 2024-09-30 10:08:18: Mapped {/img, GET} route
+info: 2024-09-30 10:08:18: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:08:18: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:08:18: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:08:18: Nest application successfully started
+info: 2024-09-30 10:08:28: Starting Nest application...
+info: 2024-09-30 10:08:28: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:28: MulterModule dependencies initialized
+info: 2024-09-30 10:08:28: JwtModule dependencies initialized
+info: 2024-09-30 10:08:28: WinstonModule dependencies initialized
+info: 2024-09-30 10:08:28: TasksModule dependencies initialized
+info: 2024-09-30 10:08:28: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:08:28: AppModule dependencies initialized
+info: 2024-09-30 10:08:28: ScheduleModule dependencies initialized
+info: 2024-09-30 10:08:34: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:08:34: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:34: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:34: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:34: UserModule dependencies initialized
+info: 2024-09-30 10:08:34: ArticleModule dependencies initialized
+info: 2024-09-30 10:08:34: ImgModule dependencies initialized
+info: 2024-09-30 10:08:34: AppController {/}:
+info: 2024-09-30 10:08:34: Mapped {/, GET} route
+info: 2024-09-30 10:08:34: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:08:34: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:08:34: UserController {/user}:
+info: 2024-09-30 10:08:34: Mapped {/user/register, POST} route
+info: 2024-09-30 10:08:34: Mapped {/user/login, POST} route
+info: 2024-09-30 10:08:34: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:08:34: ArticleController {/article}:
+info: 2024-09-30 10:08:34: Mapped {/article, POST} route
+info: 2024-09-30 10:08:34: Mapped {/article, GET} route
+info: 2024-09-30 10:08:34: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:08:34: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:08:34: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:08:34: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:08:34: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:08:34: ImgController {/img}:
+info: 2024-09-30 10:08:34: Mapped {/img, POST} route
+info: 2024-09-30 10:08:34: Mapped {/img, POST} route
+info: 2024-09-30 10:08:34: Mapped {/img, GET} route
+info: 2024-09-30 10:08:34: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:08:34: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:08:34: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:08:34: Nest application successfully started
+info: 2024-09-30 10:08:37: Starting Nest application...
+info: 2024-09-30 10:08:37: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:37: MulterModule dependencies initialized
+info: 2024-09-30 10:08:37: JwtModule dependencies initialized
+info: 2024-09-30 10:08:37: WinstonModule dependencies initialized
+info: 2024-09-30 10:08:37: TasksModule dependencies initialized
+info: 2024-09-30 10:08:37: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:08:37: AppModule dependencies initialized
+info: 2024-09-30 10:08:37: ScheduleModule dependencies initialized
+info: 2024-09-30 10:08:44: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:08:44: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:44: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:44: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:08:44: UserModule dependencies initialized
+info: 2024-09-30 10:08:44: ArticleModule dependencies initialized
+info: 2024-09-30 10:08:44: ImgModule dependencies initialized
+info: 2024-09-30 10:08:44: AppController {/}:
+info: 2024-09-30 10:08:44: Mapped {/, GET} route
+info: 2024-09-30 10:08:44: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:08:44: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:08:44: UserController {/user}:
+info: 2024-09-30 10:08:44: Mapped {/user/register, POST} route
+info: 2024-09-30 10:08:44: Mapped {/user/login, POST} route
+info: 2024-09-30 10:08:44: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:08:44: ArticleController {/article}:
+info: 2024-09-30 10:08:44: Mapped {/article, POST} route
+info: 2024-09-30 10:08:44: Mapped {/article, GET} route
+info: 2024-09-30 10:08:44: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:08:44: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:08:44: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:08:44: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:08:44: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:08:44: ImgController {/img}:
+info: 2024-09-30 10:08:44: Mapped {/img, POST} route
+info: 2024-09-30 10:08:44: Mapped {/img, POST} route
+info: 2024-09-30 10:08:44: Mapped {/img, GET} route
+info: 2024-09-30 10:08:44: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:08:44: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:08:44: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:08:44: Nest application successfully started
+info: 2024-09-30 10:10:00: 上传日志
+info: 2024-09-30 10:10:01: "上传成功"
+info: 2024-09-30 10:10:01: {"content":{"name":"info-2024-09-30 10:10:00.log","path":"2024-09-30/info-2024-09-30 10:10:00.log","sha":"ae6648ba775096d5f3a50afd1608c8e3ba5e5ad4","size":19423,"url":"https://api.github.com/repos/ndzy01/logs/contents/2024-09-30/info-2024-09-30%2010:10:00.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/2024-09-30/info-2024-09-30%2010:10:00.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/ae6648ba775096d5f3a50afd1608c8e3ba5e5ad4","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/2024-09-30/info-2024-09-30%2010%3A10%3A00.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/2024-09-30/info-2024-09-30%2010:10:00.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/ae6648ba775096d5f3a50afd1608c8e3ba5e5ad4","html":"https://github.com/ndzy01/logs/blob/main/2024-09-30/info-2024-09-30%2010:10:00.log"}},"commit":{"sha":"efe2d674aba46eb966a141b69e99903bcc98f461","node_id":"C_kwDOM4qzi9oAKGVmZTJkNjc0YWJhNDZlYjk2NmExNDFiNjllOTk5MDNiY2M5OGY0NjE","url":"https://api.github.com/repos/ndzy01/logs/git/commits/efe2d674aba46eb966a141b69e99903bcc98f461","html_url":"https://github.com/ndzy01/logs/commit/efe2d674aba46eb966a141b69e99903bcc98f461","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T02:10:00Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T02:10:00Z"},"tree":{"sha":"9d4633f902f991f617872c6612196677f1412d55","url":"https://api.github.com/repos/ndzy01/logs/git/trees/9d4633f902f991f617872c6612196677f1412d55"},"message":"更新日志 2024-09-30 10:10:00","parents":[{"sha":"7cf551ee97bceea83984c1964010025ce25ea3cd","url":"https://api.github.com/repos/ndzy01/logs/git/commits/7cf551ee97bceea83984c1964010025ce25ea3cd","html_url":"https://github.com/ndzy01/logs/commit/7cf551ee97bceea83984c1964010025ce25ea3cd"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-30 10:11:14: Starting Nest application...
+info: 2024-09-30 10:11:14: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:11:14: MulterModule dependencies initialized
+info: 2024-09-30 10:11:14: JwtModule dependencies initialized
+info: 2024-09-30 10:11:14: WinstonModule dependencies initialized
+info: 2024-09-30 10:11:14: TasksModule dependencies initialized
+info: 2024-09-30 10:11:14: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:11:14: AppModule dependencies initialized
+info: 2024-09-30 10:11:14: ScheduleModule dependencies initialized
+info: 2024-09-30 10:11:20: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:11:20: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:11:20: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:11:20: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:11:20: UserModule dependencies initialized
+info: 2024-09-30 10:11:20: ArticleModule dependencies initialized
+info: 2024-09-30 10:11:20: ImgModule dependencies initialized
+info: 2024-09-30 10:11:20: AppController {/}:
+info: 2024-09-30 10:11:20: Mapped {/, GET} route
+info: 2024-09-30 10:11:20: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:11:20: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:11:20: UserController {/user}:
+info: 2024-09-30 10:11:20: Mapped {/user/register, POST} route
+info: 2024-09-30 10:11:20: Mapped {/user/login, POST} route
+info: 2024-09-30 10:11:20: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:11:20: ArticleController {/article}:
+info: 2024-09-30 10:11:20: Mapped {/article, POST} route
+info: 2024-09-30 10:11:20: Mapped {/article, GET} route
+info: 2024-09-30 10:11:20: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:11:20: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:11:20: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:11:20: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:11:20: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:11:20: ImgController {/img}:
+info: 2024-09-30 10:11:20: Mapped {/img, POST} route
+info: 2024-09-30 10:11:20: Mapped {/img, POST} route
+info: 2024-09-30 10:11:20: Mapped {/img, GET} route
+info: 2024-09-30 10:11:20: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:11:20: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:11:20: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:11:20: Nest application successfully started
+info: 2024-09-30 10:11:28: Starting Nest application...
+info: 2024-09-30 10:11:28: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:11:28: MulterModule dependencies initialized
+info: 2024-09-30 10:11:28: JwtModule dependencies initialized
+info: 2024-09-30 10:11:28: WinstonModule dependencies initialized
+info: 2024-09-30 10:11:28: TasksModule dependencies initialized
+info: 2024-09-30 10:11:28: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:11:28: AppModule dependencies initialized
+info: 2024-09-30 10:11:28: ScheduleModule dependencies initialized
+info: 2024-09-30 10:11:35: Starting Nest application...
+info: 2024-09-30 10:11:35: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:11:35: MulterModule dependencies initialized
+info: 2024-09-30 10:11:35: JwtModule dependencies initialized
+info: 2024-09-30 10:11:35: WinstonModule dependencies initialized
+info: 2024-09-30 10:11:35: TasksModule dependencies initialized
+info: 2024-09-30 10:11:35: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:11:35: AppModule dependencies initialized
+info: 2024-09-30 10:11:35: ScheduleModule dependencies initialized
+info: 2024-09-30 10:11:41: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:11:41: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:11:41: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:11:41: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:11:41: UserModule dependencies initialized
+info: 2024-09-30 10:11:41: ArticleModule dependencies initialized
+info: 2024-09-30 10:11:41: ImgModule dependencies initialized
+info: 2024-09-30 10:11:41: AppController {/}:
+info: 2024-09-30 10:11:41: Mapped {/, GET} route
+info: 2024-09-30 10:11:41: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:11:41: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:11:41: UserController {/user}:
+info: 2024-09-30 10:11:41: Mapped {/user/register, POST} route
+info: 2024-09-30 10:11:41: Mapped {/user/login, POST} route
+info: 2024-09-30 10:11:41: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:11:41: ArticleController {/article}:
+info: 2024-09-30 10:11:41: Mapped {/article, POST} route
+info: 2024-09-30 10:11:41: Mapped {/article, GET} route
+info: 2024-09-30 10:11:41: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:11:41: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:11:41: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:11:41: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:11:41: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:11:41: ImgController {/img}:
+info: 2024-09-30 10:11:41: Mapped {/img, POST} route
+info: 2024-09-30 10:11:41: Mapped {/img, POST} route
+info: 2024-09-30 10:11:41: Mapped {/img, GET} route
+info: 2024-09-30 10:11:41: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:11:41: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:11:41: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:11:41: Nest application successfully started
+info: 2024-09-30 10:14:21: Starting Nest application...
+info: 2024-09-30 10:14:21: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:14:21: MulterModule dependencies initialized
+info: 2024-09-30 10:14:21: JwtModule dependencies initialized
+info: 2024-09-30 10:14:21: WinstonModule dependencies initialized
+info: 2024-09-30 10:14:21: TasksModule dependencies initialized
+info: 2024-09-30 10:14:21: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:14:21: AppModule dependencies initialized
+info: 2024-09-30 10:14:21: ScheduleModule dependencies initialized
+info: 2024-09-30 10:14:24: Starting Nest application...
+info: 2024-09-30 10:14:24: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:14:24: MulterModule dependencies initialized
+info: 2024-09-30 10:14:24: JwtModule dependencies initialized
+info: 2024-09-30 10:14:24: WinstonModule dependencies initialized
+info: 2024-09-30 10:14:24: TasksModule dependencies initialized
+info: 2024-09-30 10:14:24: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:14:24: AppModule dependencies initialized
+info: 2024-09-30 10:14:24: ScheduleModule dependencies initialized
+info: 2024-09-30 10:14:29: Starting Nest application...
+info: 2024-09-30 10:14:29: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:14:29: MulterModule dependencies initialized
+info: 2024-09-30 10:14:29: JwtModule dependencies initialized
+info: 2024-09-30 10:14:29: WinstonModule dependencies initialized
+info: 2024-09-30 10:14:29: TasksModule dependencies initialized
+info: 2024-09-30 10:14:29: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:14:29: AppModule dependencies initialized
+info: 2024-09-30 10:14:29: ScheduleModule dependencies initialized
+info: 2024-09-30 10:14:35: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:14:35: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:14:35: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:14:35: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:14:35: UserModule dependencies initialized
+info: 2024-09-30 10:14:35: ArticleModule dependencies initialized
+info: 2024-09-30 10:14:35: ImgModule dependencies initialized
+info: 2024-09-30 10:14:35: AppController {/}:
+info: 2024-09-30 10:14:35: Mapped {/, GET} route
+info: 2024-09-30 10:14:35: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:14:35: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:14:35: UserController {/user}:
+info: 2024-09-30 10:14:35: Mapped {/user/register, POST} route
+info: 2024-09-30 10:14:35: Mapped {/user/login, POST} route
+info: 2024-09-30 10:14:35: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:14:35: ArticleController {/article}:
+info: 2024-09-30 10:14:35: Mapped {/article, POST} route
+info: 2024-09-30 10:14:35: Mapped {/article, GET} route
+info: 2024-09-30 10:14:35: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:14:35: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:14:35: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:14:35: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:14:35: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:14:35: ImgController {/img}:
+info: 2024-09-30 10:14:35: Mapped {/img, POST} route
+info: 2024-09-30 10:14:35: Mapped {/img, POST} route
+info: 2024-09-30 10:14:35: Mapped {/img, GET} route
+info: 2024-09-30 10:14:35: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:14:35: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:14:35: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:14:35: Nest application successfully started
+info: 2024-09-30 10:14:58: Starting Nest application...
+info: 2024-09-30 10:14:58: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:14:58: MulterModule dependencies initialized
+info: 2024-09-30 10:14:58: JwtModule dependencies initialized
+info: 2024-09-30 10:14:58: WinstonModule dependencies initialized
+info: 2024-09-30 10:14:58: TasksModule dependencies initialized
+info: 2024-09-30 10:14:58: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:14:58: AppModule dependencies initialized
+info: 2024-09-30 10:14:58: ScheduleModule dependencies initialized
+info: 2024-09-30 10:15:04: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:15:04: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:15:04: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:15:04: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:15:04: UserModule dependencies initialized
+info: 2024-09-30 10:15:04: ArticleModule dependencies initialized
+info: 2024-09-30 10:15:04: ImgModule dependencies initialized
+info: 2024-09-30 10:15:04: AppController {/}:
+info: 2024-09-30 10:15:04: Mapped {/, GET} route
+info: 2024-09-30 10:15:04: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:15:04: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:15:04: UserController {/user}:
+info: 2024-09-30 10:15:04: Mapped {/user/register, POST} route
+info: 2024-09-30 10:15:04: Mapped {/user/login, POST} route
+info: 2024-09-30 10:15:04: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:15:04: ArticleController {/article}:
+info: 2024-09-30 10:15:04: Mapped {/article, POST} route
+info: 2024-09-30 10:15:04: Mapped {/article, GET} route
+info: 2024-09-30 10:15:04: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:15:04: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:15:04: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:15:04: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:15:04: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:15:04: ImgController {/img}:
+info: 2024-09-30 10:15:04: Mapped {/img, POST} route
+info: 2024-09-30 10:15:04: Mapped {/img, POST} route
+info: 2024-09-30 10:15:04: Mapped {/img, GET} route
+info: 2024-09-30 10:15:04: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:15:04: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:15:04: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:15:05: Nest application successfully started
+info: 2024-09-30 10:15:37: Starting Nest application...
+info: 2024-09-30 10:15:37: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:15:37: MulterModule dependencies initialized
+info: 2024-09-30 10:15:37: JwtModule dependencies initialized
+info: 2024-09-30 10:15:37: WinstonModule dependencies initialized
+info: 2024-09-30 10:15:37: TasksModule dependencies initialized
+info: 2024-09-30 10:15:37: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:15:37: AppModule dependencies initialized
+info: 2024-09-30 10:15:37: ScheduleModule dependencies initialized
+info: 2024-09-30 10:15:43: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:15:43: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:15:43: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:15:43: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:15:43: UserModule dependencies initialized
+info: 2024-09-30 10:15:43: ArticleModule dependencies initialized
+info: 2024-09-30 10:15:43: ImgModule dependencies initialized
+info: 2024-09-30 10:15:43: AppController {/}:
+info: 2024-09-30 10:15:43: Mapped {/, GET} route
+info: 2024-09-30 10:15:43: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:15:43: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:15:43: UserController {/user}:
+info: 2024-09-30 10:15:43: Mapped {/user/register, POST} route
+info: 2024-09-30 10:15:43: Mapped {/user/login, POST} route
+info: 2024-09-30 10:15:43: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:15:43: ArticleController {/article}:
+info: 2024-09-30 10:15:43: Mapped {/article, POST} route
+info: 2024-09-30 10:15:43: Mapped {/article, GET} route
+info: 2024-09-30 10:15:43: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:15:43: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:15:43: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:15:43: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:15:43: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:15:43: ImgController {/img}:
+info: 2024-09-30 10:15:43: Mapped {/img, POST} route
+info: 2024-09-30 10:15:43: Mapped {/img, POST} route
+info: 2024-09-30 10:15:43: Mapped {/img, GET} route
+info: 2024-09-30 10:15:43: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:15:43: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:15:43: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:15:43: Nest application successfully started
+info: 2024-09-30 10:16:27: Starting Nest application...
+info: 2024-09-30 10:16:27: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:16:27: MulterModule dependencies initialized
+info: 2024-09-30 10:16:27: JwtModule dependencies initialized
+info: 2024-09-30 10:16:27: WinstonModule dependencies initialized
+info: 2024-09-30 10:16:27: TasksModule dependencies initialized
+info: 2024-09-30 10:16:27: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:16:27: AppModule dependencies initialized
+info: 2024-09-30 10:16:27: ScheduleModule dependencies initialized
+info: 2024-09-30 10:16:34: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:16:34: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:16:34: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:16:34: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:16:34: UserModule dependencies initialized
+info: 2024-09-30 10:16:34: ArticleModule dependencies initialized
+info: 2024-09-30 10:16:34: ImgModule dependencies initialized
+info: 2024-09-30 10:16:34: AppController {/}:
+info: 2024-09-30 10:16:34: Mapped {/, GET} route
+info: 2024-09-30 10:16:34: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:16:34: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:16:34: UserController {/user}:
+info: 2024-09-30 10:16:34: Mapped {/user/register, POST} route
+info: 2024-09-30 10:16:34: Mapped {/user/login, POST} route
+info: 2024-09-30 10:16:34: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:16:34: ArticleController {/article}:
+info: 2024-09-30 10:16:34: Mapped {/article, POST} route
+info: 2024-09-30 10:16:34: Mapped {/article, GET} route
+info: 2024-09-30 10:16:34: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:16:34: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:16:34: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:16:34: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:16:34: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:16:34: ImgController {/img}:
+info: 2024-09-30 10:16:34: Mapped {/img, POST} route
+info: 2024-09-30 10:16:34: Mapped {/img, POST} route
+info: 2024-09-30 10:16:34: Mapped {/img, GET} route
+info: 2024-09-30 10:16:34: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:16:34: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:16:34: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:16:34: Nest application successfully started
+info: 2024-09-30 10:16:43: Starting Nest application...
+info: 2024-09-30 10:16:43: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:16:43: MulterModule dependencies initialized
+info: 2024-09-30 10:16:43: JwtModule dependencies initialized
+info: 2024-09-30 10:16:43: WinstonModule dependencies initialized
+info: 2024-09-30 10:16:43: TasksModule dependencies initialized
+info: 2024-09-30 10:16:43: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:16:43: AppModule dependencies initialized
+info: 2024-09-30 10:16:43: ScheduleModule dependencies initialized
+info: 2024-09-30 10:16:49: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:16:49: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:16:49: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:16:49: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:16:49: UserModule dependencies initialized
+info: 2024-09-30 10:16:49: ArticleModule dependencies initialized
+info: 2024-09-30 10:16:49: ImgModule dependencies initialized
+info: 2024-09-30 10:16:49: AppController {/}:
+info: 2024-09-30 10:16:49: Mapped {/, GET} route
+info: 2024-09-30 10:16:49: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:16:49: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:16:49: UserController {/user}:
+info: 2024-09-30 10:16:49: Mapped {/user/register, POST} route
+info: 2024-09-30 10:16:49: Mapped {/user/login, POST} route
+info: 2024-09-30 10:16:49: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:16:49: ArticleController {/article}:
+info: 2024-09-30 10:16:49: Mapped {/article, POST} route
+info: 2024-09-30 10:16:49: Mapped {/article, GET} route
+info: 2024-09-30 10:16:49: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:16:49: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:16:49: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:16:49: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:16:49: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:16:49: ImgController {/img}:
+info: 2024-09-30 10:16:49: Mapped {/img, POST} route
+info: 2024-09-30 10:16:49: Mapped {/img, POST} route
+info: 2024-09-30 10:16:49: Mapped {/img, GET} route
+info: 2024-09-30 10:16:49: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:16:49: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:16:49: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:16:49: Nest application successfully started
+info: 2024-09-30 10:45:33: Starting Nest application...
+info: 2024-09-30 10:45:33: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:45:33: MulterModule dependencies initialized
+info: 2024-09-30 10:45:33: JwtModule dependencies initialized
+info: 2024-09-30 10:45:33: WinstonModule dependencies initialized
+info: 2024-09-30 10:45:33: TasksModule dependencies initialized
+info: 2024-09-30 10:45:33: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:45:33: AppModule dependencies initialized
+info: 2024-09-30 10:45:33: ScheduleModule dependencies initialized
+info: 2024-09-30 10:45:39: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:45:39: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:45:39: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:45:39: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:45:39: UserModule dependencies initialized
+info: 2024-09-30 10:45:39: ArticleModule dependencies initialized
+info: 2024-09-30 10:45:39: ImgModule dependencies initialized
+info: 2024-09-30 10:45:39: AppController {/}:
+info: 2024-09-30 10:45:39: Mapped {/, GET} route
+info: 2024-09-30 10:45:39: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:45:39: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:45:39: UserController {/user}:
+info: 2024-09-30 10:45:39: Mapped {/user/register, POST} route
+info: 2024-09-30 10:45:39: Mapped {/user/login, POST} route
+info: 2024-09-30 10:45:39: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:45:39: ArticleController {/article}:
+info: 2024-09-30 10:45:39: Mapped {/article, POST} route
+info: 2024-09-30 10:45:39: Mapped {/article, GET} route
+info: 2024-09-30 10:45:39: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:45:39: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:45:39: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:45:39: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:45:39: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:45:39: ImgController {/img}:
+info: 2024-09-30 10:45:39: Mapped {/img, POST} route
+info: 2024-09-30 10:45:39: Mapped {/img, POST} route
+info: 2024-09-30 10:45:39: Mapped {/img, GET} route
+info: 2024-09-30 10:45:39: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:45:39: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:45:39: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:45:39: Nest application successfully started
+info: 2024-09-30 10:45:40: [INFO] method=GET ip=::1======
+info: 2024-09-30 10:45:40: 上传日志
+info: 2024-09-30 10:45:40: 找到的最后一个有效日志文件: /tmp/logs/info-2024-09-30.log.41 尝试次数: 41
+info: 2024-09-30 10:45:41: 没有找到任何有效日志文件
+info: 2024-09-30 10:45:41: [INFO] method=GET ip=::1 耗时=18ms======
+info: 2024-09-30 10:45:41: 上传成功
+info: 2024-09-30 10:45:41: {"content":{"name":"info-2024-09-30 10:45:41.log.41","path":"ndzy-s/2024-09-30/info-2024-09-30 10:45:41.log.41","sha":"8883cbc5402ba7a75e2537d89cd1e4c4490e8c4e","size":2842,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2010:45:41.log.41?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2010:45:41.log.41","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/8883cbc5402ba7a75e2537d89cd1e4c4490e8c4e","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-09-30/info-2024-09-30%2010%3A45%3A41.log.41","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-09-30/info-2024-09-30%2010:45:41.log.41?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/8883cbc5402ba7a75e2537d89cd1e4c4490e8c4e","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-09-30/info-2024-09-30%2010:45:41.log.41"}},"commit":{"sha":"51050c03e7cd003475e49ebfe3d31ed76b8e7d50","node_id":"C_kwDOM4qzi9oAKDUxMDUwYzAzZTdjZDAwMzQ3NWU0OWViZmUzZDMxZWQ3NmI4ZTdkNTA","url":"https://api.github.com/repos/ndzy01/logs/git/commits/51050c03e7cd003475e49ebfe3d31ed76b8e7d50","html_url":"https://github.com/ndzy01/logs/commit/51050c03e7cd003475e49ebfe3d31ed76b8e7d50","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T02:45:41Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-09-30T02:45:41Z"},"tree":{"sha":"6ebff624ccc9530083f178f161825d98791deea7","url":"https://api.github.com/repos/ndzy01/logs/git/trees/6ebff624ccc9530083f178f161825d98791deea7"},"message":"ndzy-s 更新日志 2024-09-30 10:45:41","parents":[{"sha":"73bfd2445cac3f5feb67afb0e77993b9e67b21ec","url":"https://api.github.com/repos/ndzy01/logs/git/commits/73bfd2445cac3f5feb67afb0e77993b9e67b21ec","html_url":"https://github.com/ndzy01/logs/commit/73bfd2445cac3f5feb67afb0e77993b9e67b21ec"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-09-30 10:47:26: Starting Nest application...
+info: 2024-09-30 10:47:26: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:47:26: MulterModule dependencies initialized
+info: 2024-09-30 10:47:26: JwtModule dependencies initialized
+info: 2024-09-30 10:47:26: WinstonModule dependencies initialized
+info: 2024-09-30 10:47:26: TasksModule dependencies initialized
+info: 2024-09-30 10:47:26: DiscoveryModule dependencies initialized
+info: 2024-09-30 10:47:26: AppModule dependencies initialized
+info: 2024-09-30 10:47:26: ScheduleModule dependencies initialized
+info: 2024-09-30 10:47:32: TypeOrmCoreModule dependencies initialized
+info: 2024-09-30 10:47:32: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:47:32: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:47:32: TypeOrmModule dependencies initialized
+info: 2024-09-30 10:47:32: UserModule dependencies initialized
+info: 2024-09-30 10:47:32: ArticleModule dependencies initialized
+info: 2024-09-30 10:47:32: ImgModule dependencies initialized
+info: 2024-09-30 10:47:32: AppController {/}:
+info: 2024-09-30 10:47:32: Mapped {/, GET} route
+info: 2024-09-30 10:47:32: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:47:32: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:47:32: UserController {/user}:
+info: 2024-09-30 10:47:32: Mapped {/user/register, POST} route
+info: 2024-09-30 10:47:32: Mapped {/user/login, POST} route
+info: 2024-09-30 10:47:32: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:47:32: ArticleController {/article}:
+info: 2024-09-30 10:47:32: Mapped {/article, POST} route
+info: 2024-09-30 10:47:32: Mapped {/article, GET} route
+info: 2024-09-30 10:47:32: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:47:32: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:47:32: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:47:32: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:47:32: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:47:32: ImgController {/img}:
+info: 2024-09-30 10:47:32: Mapped {/img, POST} route
+info: 2024-09-30 10:47:32: Mapped {/img, POST} route
+info: 2024-09-30 10:47:32: Mapped {/img, GET} route
+info: 2024-09-30 10:47:32: Mapped {/img/:id, GET} route
+info: 2024-09-30 10:47:32: Mapped {/img/:id, PATCH} route
+info: 2024-09-30 10:47:32: Mapped {/img/:id, DELETE} route
+info: 2024-09-30 10:47:32: Nest application successfully started
+info: 2024-09-30 10:50:00: 上传日志
