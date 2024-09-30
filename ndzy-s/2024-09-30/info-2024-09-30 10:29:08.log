@@ -1,0 +1,18 @@
+info: 2024-09-30 10:23:42: AppController {/}:
+info: 2024-09-30 10:23:42: Mapped {/, GET} route
+info: 2024-09-30 10:23:42: Mapped {/encrypt, GET} route
+info: 2024-09-30 10:23:42: Mapped {/decrypt, GET} route
+info: 2024-09-30 10:23:42: UserController {/user}:
+info: 2024-09-30 10:23:42: Mapped {/user/register, POST} route
+info: 2024-09-30 10:23:42: Mapped {/user/login, POST} route
+info: 2024-09-30 10:23:42: Mapped {/user/:id, GET} route
+info: 2024-09-30 10:23:42: ArticleController {/article}:
+info: 2024-09-30 10:23:42: Mapped {/article, POST} route
+info: 2024-09-30 10:23:42: Mapped {/article, GET} route
+info: 2024-09-30 10:23:42: Mapped {/article/:id, GET} route
+info: 2024-09-30 10:23:42: Mapped {/article/pid/:pid, GET} route
+info: 2024-09-30 10:23:42: Mapped {/article/:id, PATCH} route
+info: 2024-09-30 10:23:42: Mapped {/article/updateOrder, POST} route
+info: 2024-09-30 10:23:42: Mapped {/article/:id, DELETE} route
+info: 2024-09-30 10:23:42: ImgController {/img}:
+info: 2024-09-30 10:23:42: Mapped {/img, POST} route
