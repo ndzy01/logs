@@ -1,0 +1,77 @@
+info: 2024-10-07 06:17:32: Starting Nest application...
+info: 2024-10-07 06:17:32: TypeOrmModule dependencies initialized
+info: 2024-10-07 06:17:32: MulterModule dependencies initialized
+info: 2024-10-07 06:17:32: JwtModule dependencies initialized
+info: 2024-10-07 06:17:32: WinstonModule dependencies initialized
+info: 2024-10-07 06:17:32: TasksModule dependencies initialized
+info: 2024-10-07 06:17:32: DiscoveryModule dependencies initialized
+info: 2024-10-07 06:17:32: AppModule dependencies initialized
+info: 2024-10-07 06:17:32: ScheduleModule dependencies initialized
+info: 2024-10-07 06:17:32: TypeOrmCoreModule dependencies initialized
+info: 2024-10-07 06:17:32: TypeOrmModule dependencies initialized
+info: 2024-10-07 06:17:32: TypeOrmModule dependencies initialized
+info: 2024-10-07 06:17:32: TypeOrmModule dependencies initialized
+info: 2024-10-07 06:17:32: UserModule dependencies initialized
+info: 2024-10-07 06:17:32: ArticleModule dependencies initialized
+info: 2024-10-07 06:17:32: ImgModule dependencies initialized
+info: 2024-10-07 06:17:32: AppController {/}:
+info: 2024-10-07 06:17:32: Mapped {/, GET} route
+info: 2024-10-07 06:17:32: Mapped {/encrypt, GET} route
+info: 2024-10-07 06:17:32: Mapped {/decrypt, GET} route
+info: 2024-10-07 06:17:32: UserController {/user}:
+info: 2024-10-07 06:17:32: Mapped {/user/register, POST} route
+info: 2024-10-07 06:17:32: Mapped {/user/login, POST} route
+info: 2024-10-07 06:17:32: Mapped {/user/:id, GET} route
+info: 2024-10-07 06:17:32: ArticleController {/article}:
+info: 2024-10-07 06:17:32: Mapped {/article, POST} route
+info: 2024-10-07 06:17:32: Mapped {/article, GET} route
+info: 2024-10-07 06:17:32: Mapped {/article/:id, GET} route
+info: 2024-10-07 06:17:32: Mapped {/article/pid/:pid, GET} route
+info: 2024-10-07 06:17:32: Mapped {/article/:id, PATCH} route
+info: 2024-10-07 06:17:32: Mapped {/article/updateOrder, POST} route
+info: 2024-10-07 06:17:32: Mapped {/article/:id, DELETE} route
+info: 2024-10-07 06:17:32: ImgController {/img}:
+info: 2024-10-07 06:17:32: Mapped {/img, POST} route
+info: 2024-10-07 06:17:32: Mapped {/img, POST} route
+info: 2024-10-07 06:17:32: Mapped {/img, GET} route
+info: 2024-10-07 06:17:32: Mapped {/img/:id, GET} route
+info: 2024-10-07 06:17:32: Mapped {/img/:id, PATCH} route
+info: 2024-10-07 06:17:32: Mapped {/img/:id, DELETE} route
+info: 2024-10-07 06:17:32: Nest application successfully started
+info: 2024-10-07 06:18:56: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:18:56: [INFO] method=GET ip=1.36.156.68 耗时=3ms======
+info: 2024-10-07 06:19:47: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:19:47: [INFO] method=GET ip=1.36.156.68 耗时=2ms======
+info: 2024-10-07 06:20:30: 上传日志
+info: 2024-10-07 06:20:41: "上传成功"
+info: 2024-10-07 06:20:41: {"content":{"name":"info-2024-10-07 06:20:30.log","path":"2024-10-07/info-2024-10-07 06:20:30.log","sha":"7d7a6a99f389ce60486e178adda5b9e730fc0080","size":2733,"url":"https://api.github.com/repos/ndzy01/logs/contents/2024-10-07/info-2024-10-07%2006:20:30.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/2024-10-07/info-2024-10-07%2006:20:30.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/7d7a6a99f389ce60486e178adda5b9e730fc0080","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/2024-10-07/info-2024-10-07%2006%3A20%3A30.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/2024-10-07/info-2024-10-07%2006:20:30.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/7d7a6a99f389ce60486e178adda5b9e730fc0080","html":"https://github.com/ndzy01/logs/blob/main/2024-10-07/info-2024-10-07%2006:20:30.log"}},"commit":{"sha":"a7048d2a5782af01ccbef10edef7b2cff6deb99a","node_id":"C_kwDOM4qzi9oAKGE3MDQ4ZDJhNTc4MmFmMDFjY2JlZjEwZWRlZjdiMmNmZjZkZWI5OWE","url":"https://api.github.com/repos/ndzy01/logs/git/commits/a7048d2a5782af01ccbef10edef7b2cff6deb99a","html_url":"https://github.com/ndzy01/logs/commit/a7048d2a5782af01ccbef10edef7b2cff6deb99a","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-07T06:20:37Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-07T06:20:37Z"},"tree":{"sha":"de618f3f813973debb531eced8218059b67c5d02","url":"https://api.github.com/repos/ndzy01/logs/git/trees/de618f3f813973debb531eced8218059b67c5d02"},"message":"更新日志 2024-10-07 06:20:30","parents":[{"sha":"bc24bf2d2789a00279034fbcf16785f93d459e69","url":"https://api.github.com/repos/ndzy01/logs/git/commits/bc24bf2d2789a00279034fbcf16785f93d459e69","html_url":"https://github.com/ndzy01/logs/commit/bc24bf2d2789a00279034fbcf16785f93d459e69"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-10-07 06:24:56: [INFO] method=POST ip=1.36.156.68======
+info: 2024-10-07 06:24:56: [INFO] method=POST ip=1.36.156.68 耗时=188ms======
+info: 2024-10-07 06:24:57: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:24:57: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-07 06:25:48: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:25:48: [INFO] method=GET ip=1.36.156.68 耗时=0ms======
+info: 2024-10-07 06:28:43: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:28:43: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-07 06:28:43: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:28:43: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-07 06:28:58: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:28:58: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-07 06:28:59: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:28:59: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-07 06:29:00: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:29:00: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-07 06:31:52: 上传日志
+info: 2024-10-07 06:31:53: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:31:53: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-07 06:32:05: "上传失败"
+info: 2024-10-07 06:32:05: {}
+info: 2024-10-07 06:32:05: [INFO] method=POST ip=1.36.156.68======
+info: 2024-10-07 06:32:05: [INFO] method=POST ip=1.36.156.68 耗时=83ms======
+info: 2024-10-07 06:32:06: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:32:06: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-07 06:38:03: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:38:03: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-07 06:39:44: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-07 06:39:44: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-07 06:41:54: 上传日志
