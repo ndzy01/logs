@@ -1,0 +1,10 @@
+info: 2024-10-08 03:33:39: Starting Nest application...
+info: 2024-10-08 03:33:39: TypeOrmModule dependencies initialized
+info: 2024-10-08 03:33:39: MulterModule dependencies initialized
+info: 2024-10-08 03:33:39: JwtModule dependencies initialized
+info: 2024-10-08 03:33:39: WinstonModule dependencies initialized
+info: 2024-10-08 03:33:39: TasksModule dependencies initialized
+info: 2024-10-08 03:33:39: DiscoveryModule dependencies initialized
+info: 2024-10-08 03:33:39: AppModule dependencies initialized
+info: 2024-10-08 03:33:39: ScheduleModule dependencies initialized
+info: 2024-10-08 03:33:40: TypeOrmCoreModule dependencies initialized
