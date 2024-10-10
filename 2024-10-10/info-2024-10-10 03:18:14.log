@@ -1,0 +1,69 @@
+info: 2024-10-10 02:59:37: Starting Nest application...
+info: 2024-10-10 02:59:37: TypeOrmModule dependencies initialized
+info: 2024-10-10 02:59:37: MulterModule dependencies initialized
+info: 2024-10-10 02:59:37: JwtModule dependencies initialized
+info: 2024-10-10 02:59:37: WinstonModule dependencies initialized
+info: 2024-10-10 02:59:37: TasksModule dependencies initialized
+info: 2024-10-10 02:59:37: DiscoveryModule dependencies initialized
+info: 2024-10-10 02:59:37: AppModule dependencies initialized
+info: 2024-10-10 02:59:37: ScheduleModule dependencies initialized
+info: 2024-10-10 02:59:38: TypeOrmCoreModule dependencies initialized
+info: 2024-10-10 02:59:38: TypeOrmModule dependencies initialized
+info: 2024-10-10 02:59:38: TypeOrmModule dependencies initialized
+info: 2024-10-10 02:59:38: TypeOrmModule dependencies initialized
+info: 2024-10-10 02:59:38: UserModule dependencies initialized
+info: 2024-10-10 02:59:38: ArticleModule dependencies initialized
+info: 2024-10-10 02:59:38: ImgModule dependencies initialized
+info: 2024-10-10 02:59:38: AppController {/}:
+info: 2024-10-10 02:59:38: Mapped {/, GET} route
+info: 2024-10-10 02:59:38: Mapped {/auth, GET} route
+info: 2024-10-10 02:59:38: Mapped {/encrypt, GET} route
+info: 2024-10-10 02:59:38: Mapped {/decrypt, GET} route
+info: 2024-10-10 02:59:38: UserController {/user}:
+info: 2024-10-10 02:59:38: Mapped {/user/register, POST} route
+info: 2024-10-10 02:59:38: Mapped {/user/login, POST} route
+info: 2024-10-10 02:59:38: Mapped {/user/:id, GET} route
+info: 2024-10-10 02:59:38: ArticleController {/article}:
+info: 2024-10-10 02:59:38: Mapped {/article, POST} route
+info: 2024-10-10 02:59:38: Mapped {/article, GET} route
+info: 2024-10-10 02:59:38: Mapped {/article/:id, GET} route
+info: 2024-10-10 02:59:38: Mapped {/article/pid/:pid, GET} route
+info: 2024-10-10 02:59:38: Mapped {/article/:id, PATCH} route
+info: 2024-10-10 02:59:38: Mapped {/article/updateOrder, POST} route
+info: 2024-10-10 02:59:38: Mapped {/article/:id, DELETE} route
+info: 2024-10-10 02:59:38: ImgController {/img}:
+info: 2024-10-10 02:59:38: Mapped {/img, POST} route
+info: 2024-10-10 02:59:38: Mapped {/img, POST} route
+info: 2024-10-10 02:59:38: Mapped {/img, GET} route
+info: 2024-10-10 02:59:38: Mapped {/img/:id, GET} route
+info: 2024-10-10 02:59:38: Mapped {/img/:id, PATCH} route
+info: 2024-10-10 02:59:38: Mapped {/img/:id, DELETE} route
+info: 2024-10-10 02:59:38: Nest application successfully started
+info: 2024-10-10 03:00:56: 上传日志
+info: 2024-10-10 03:02:12: "上传失败"
+info: 2024-10-10 03:02:12: {}
+info: 2024-10-10 03:02:38: [INFO] method=POST ip=1.36.156.68======
+info: 2024-10-10 03:02:39: [INFO] method=POST ip=1.36.156.68 耗时=122ms======
+info: 2024-10-10 03:02:40: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-10 03:02:40: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-10 03:02:52: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-10 03:02:52: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-10 03:03:11: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-10 03:03:11: [INFO] method=GET ip=1.36.156.68 耗时=370ms======
+info: 2024-10-10 03:03:17: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-10 03:03:17: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-10 03:03:33: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-10 03:03:33: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-10 03:04:15: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-10 03:04:15: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-10 03:08:12: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-10 03:08:12: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-10 03:08:29: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-10 03:08:29: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-10 03:08:30: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-10 03:08:30: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-10 03:08:31: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-10 03:08:31: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-10 03:08:31: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-10 03:08:31: [INFO] method=GET ip=1.36.156.68 耗时=1ms======
+info: 2024-10-10 03:18:14: 上传日志
