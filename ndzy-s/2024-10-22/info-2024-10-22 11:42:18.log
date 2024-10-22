@@ -1,0 +1,108 @@
+info: 2024-10-22 10:49:52: Starting Nest application...
+info: 2024-10-22 10:49:52: TypeOrmModule dependencies initialized
+info: 2024-10-22 10:49:52: MulterModule dependencies initialized
+info: 2024-10-22 10:49:52: JwtModule dependencies initialized
+info: 2024-10-22 10:49:52: WinstonModule dependencies initialized
+info: 2024-10-22 10:49:52: TasksModule dependencies initialized
+info: 2024-10-22 10:49:52: DiscoveryModule dependencies initialized
+info: 2024-10-22 10:49:52: AppModule dependencies initialized
+info: 2024-10-22 10:49:52: ScheduleModule dependencies initialized
+info: 2024-10-22 10:49:53: TypeOrmCoreModule dependencies initialized
+info: 2024-10-22 10:49:53: TypeOrmModule dependencies initialized
+info: 2024-10-22 10:49:53: TypeOrmModule dependencies initialized
+info: 2024-10-22 10:49:53: TypeOrmModule dependencies initialized
+info: 2024-10-22 10:49:53: TypeOrmModule dependencies initialized
+info: 2024-10-22 10:49:53: UserModule dependencies initialized
+info: 2024-10-22 10:49:53: ArticleModule dependencies initialized
+info: 2024-10-22 10:49:53: MusicModule dependencies initialized
+info: 2024-10-22 10:49:53: ImgModule dependencies initialized
+info: 2024-10-22 10:49:53: AppController {/}:
+info: 2024-10-22 10:49:53: Mapped {/, GET} route
+info: 2024-10-22 10:49:53: Mapped {/auth, GET} route
+info: 2024-10-22 10:49:53: Mapped {/encrypt, GET} route
+info: 2024-10-22 10:49:53: Mapped {/decrypt, GET} route
+info: 2024-10-22 10:49:53: UserController {/user}:
+info: 2024-10-22 10:49:53: Mapped {/user/register, POST} route
+info: 2024-10-22 10:49:53: Mapped {/user/login, POST} route
+info: 2024-10-22 10:49:53: Mapped {/user/:id, GET} route
+info: 2024-10-22 10:49:53: ArticleController {/article}:
+info: 2024-10-22 10:49:53: Mapped {/article, POST} route
+info: 2024-10-22 10:49:53: Mapped {/article, GET} route
+info: 2024-10-22 10:49:53: Mapped {/article/:id, GET} route
+info: 2024-10-22 10:49:53: Mapped {/article/pid/:pid, GET} route
+info: 2024-10-22 10:49:53: Mapped {/article/:id, PATCH} route
+info: 2024-10-22 10:49:53: Mapped {/article/updateOrder, POST} route
+info: 2024-10-22 10:49:53: Mapped {/article/:id, DELETE} route
+info: 2024-10-22 10:49:53: ImgController {/img}:
+info: 2024-10-22 10:49:53: Mapped {/img, POST} route
+info: 2024-10-22 10:49:53: Mapped {/img, POST} route
+info: 2024-10-22 10:49:53: Mapped {/img, GET} route
+info: 2024-10-22 10:49:53: Mapped {/img/:id, GET} route
+info: 2024-10-22 10:49:53: Mapped {/img/:id, PATCH} route
+info: 2024-10-22 10:49:53: Mapped {/img/:id, DELETE} route
+info: 2024-10-22 10:49:53: MusicController {/music}:
+info: 2024-10-22 10:49:53: Mapped {/music/custom, GET} route
+info: 2024-10-22 10:49:53: Mapped {/music/:id, GET} route
+info: 2024-10-22 10:49:53: Mapped {/music, GET} route
+info: 2024-10-22 10:49:53: Mapped {/music, POST} route
+info: 2024-10-22 10:49:53: Mapped {/music/bulk, POST} route
+info: 2024-10-22 10:49:53: Mapped {/music/:id, PATCH} route
+info: 2024-10-22 10:49:53: Mapped {/music/:id, PUT} route
+info: 2024-10-22 10:49:53: Mapped {/music/:id, DELETE} route
+info: 2024-10-22 10:49:53: Nest application successfully started
+info: 2024-10-22 10:49:53: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 10:49:53: [INFO] method=GET ip=1.36.156.68 耗时=43ms======
+info: 2024-10-22 10:54:38: 上传日志
+info: 2024-10-22 10:54:38: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 10:54:38: [INFO] method=GET ip=1.36.156.68 耗时=325ms======
+info: 2024-10-22 10:57:18: "上传成功"
+info: 2024-10-22 10:57:18: {"content":{"name":"info-2024-10-22 10:54:38.log","path":"ndzy-s/2024-10-22/info-2024-10-22 10:54:38.log","sha":"28f6637e2a217d6def578714bc1b4a0e8d59065c","size":3294,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2010:54:38.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2010:54:38.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/28f6637e2a217d6def578714bc1b4a0e8d59065c","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-10-22/info-2024-10-22%2010%3A54%3A38.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2010:54:38.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/28f6637e2a217d6def578714bc1b4a0e8d59065c","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2010:54:38.log"}},"commit":{"sha":"5efc0a5469c7280fec79910c55d6030b529933cc","node_id":"C_kwDOM4qzi9oAKDVlZmMwYTU0NjljNzI4MGZlYzc5OTEwYzU1ZDYwMzBiNTI5OTMzY2M","url":"https://api.github.com/repos/ndzy01/logs/git/commits/5efc0a5469c7280fec79910c55d6030b529933cc","html_url":"https://github.com/ndzy01/logs/commit/5efc0a5469c7280fec79910c55d6030b529933cc","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T10:54:38Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T10:54:38Z"},"tree":{"sha":"60f2bc6a92d71a4ed4df096d941c2489e24c8c05","url":"https://api.github.com/repos/ndzy01/logs/git/trees/60f2bc6a92d71a4ed4df096d941c2489e24c8c05"},"message":"更新日志 2024-10-22 10:54:38","parents":[{"sha":"db4410f96c6741f04803ab0c5ff60c8aa22e8571","url":"https://api.github.com/repos/ndzy01/logs/git/commits/db4410f96c6741f04803ab0c5ff60c8aa22e8571","html_url":"https://github.com/ndzy01/logs/commit/db4410f96c6741f04803ab0c5ff60c8aa22e8571"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-10-22 10:57:18: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 10:57:18: [INFO] method=GET ip=218.250.72.67 耗时=242ms======
+info: 2024-10-22 10:59:38: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 10:59:38: [INFO] method=GET ip=1.36.156.68 耗时=48ms======
+info: 2024-10-22 11:02:18: 上传日志
+info: 2024-10-22 11:02:18: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 11:02:18: [INFO] method=GET ip=218.250.72.67 耗时=69ms======
+info: 2024-10-22 11:04:38: "上传成功"
+info: 2024-10-22 11:04:38: {"content":{"name":"info-2024-10-22 11:02:18.log","path":"ndzy-s/2024-10-22/info-2024-10-22 11:02:18.log","sha":"4529f00002baffcf3523937cc64ef67270947a1e","size":5896,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2011:02:18.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2011:02:18.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/4529f00002baffcf3523937cc64ef67270947a1e","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-10-22/info-2024-10-22%2011%3A02%3A18.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2011:02:18.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/4529f00002baffcf3523937cc64ef67270947a1e","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2011:02:18.log"}},"commit":{"sha":"f63c354596e520f87d9003357a1020d6f56348d0","node_id":"C_kwDOM4qzi9oAKGY2M2MzNTQ1OTZlNTIwZjg3ZDkwMDMzNTdhMTAyMGQ2ZjU2MzQ4ZDA","url":"https://api.github.com/repos/ndzy01/logs/git/commits/f63c354596e520f87d9003357a1020d6f56348d0","html_url":"https://github.com/ndzy01/logs/commit/f63c354596e520f87d9003357a1020d6f56348d0","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T11:02:18Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T11:02:18Z"},"tree":{"sha":"6108cc730ebe689ce22acf7da5b643753932c159","url":"https://api.github.com/repos/ndzy01/logs/git/trees/6108cc730ebe689ce22acf7da5b643753932c159"},"message":"更新日志 2024-10-22 11:02:18","parents":[{"sha":"5efc0a5469c7280fec79910c55d6030b529933cc","url":"https://api.github.com/repos/ndzy01/logs/git/commits/5efc0a5469c7280fec79910c55d6030b529933cc","html_url":"https://github.com/ndzy01/logs/commit/5efc0a5469c7280fec79910c55d6030b529933cc"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-10-22 11:04:38: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 11:04:38: [INFO] method=GET ip=1.36.156.68 耗时=85ms======
+info: 2024-10-22 11:07:18: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 11:07:18: [INFO] method=GET ip=218.250.72.67 耗时=301ms======
+info: 2024-10-22 11:09:38: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 11:09:38: [INFO] method=GET ip=1.36.156.68 耗时=60ms======
+info: 2024-10-22 11:12:18: 上传日志
+info: 2024-10-22 11:12:18: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 11:12:18: [INFO] method=GET ip=218.250.72.67 耗时=204ms======
+info: 2024-10-22 11:14:38: "上传成功"
+info: 2024-10-22 11:14:38: {"content":{"name":"info-2024-10-22 11:12:18.log","path":"ndzy-s/2024-10-22/info-2024-10-22 11:12:18.log","sha":"72d6edd44d84b046ed309990c0a10f33fc5ccdef","size":8605,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2011:12:18.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2011:12:18.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/72d6edd44d84b046ed309990c0a10f33fc5ccdef","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-10-22/info-2024-10-22%2011%3A12%3A18.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2011:12:18.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/72d6edd44d84b046ed309990c0a10f33fc5ccdef","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2011:12:18.log"}},"commit":{"sha":"83bb0c786845b6f60bf80d4a943a776abef6ea5c","node_id":"C_kwDOM4qzi9oAKDgzYmIwYzc4Njg0NWI2ZjYwYmY4MGQ0YTk0M2E3NzZhYmVmNmVhNWM","url":"https://api.github.com/repos/ndzy01/logs/git/commits/83bb0c786845b6f60bf80d4a943a776abef6ea5c","html_url":"https://github.com/ndzy01/logs/commit/83bb0c786845b6f60bf80d4a943a776abef6ea5c","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T11:12:18Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T11:12:18Z"},"tree":{"sha":"1b125987bd55ad208e267c5d467349e7be2b959a","url":"https://api.github.com/repos/ndzy01/logs/git/trees/1b125987bd55ad208e267c5d467349e7be2b959a"},"message":"更新日志 2024-10-22 11:12:18","parents":[{"sha":"f63c354596e520f87d9003357a1020d6f56348d0","url":"https://api.github.com/repos/ndzy01/logs/git/commits/f63c354596e520f87d9003357a1020d6f56348d0","html_url":"https://github.com/ndzy01/logs/commit/f63c354596e520f87d9003357a1020d6f56348d0"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-10-22 11:14:38: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 11:14:38: [INFO] method=GET ip=1.36.156.68 耗时=55ms======
+info: 2024-10-22 11:17:18: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 11:17:18: [INFO] method=GET ip=218.250.72.67 耗时=51ms======
+info: 2024-10-22 11:19:38: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 11:19:38: [INFO] method=GET ip=1.36.156.68 耗时=44ms======
+info: 2024-10-22 11:22:18: 上传日志
+info: 2024-10-22 11:22:18: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 11:22:18: [INFO] method=GET ip=218.250.72.67 耗时=72ms======
+info: 2024-10-22 11:24:38: "上传成功"
+info: 2024-10-22 11:24:38: {"content":{"name":"info-2024-10-22 11:22:18.log","path":"ndzy-s/2024-10-22/info-2024-10-22 11:22:18.log","sha":"83b897ebd0d2e4a8c2e894761de654ccc9da7398","size":11394,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2011:22:18.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2011:22:18.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/83b897ebd0d2e4a8c2e894761de654ccc9da7398","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-10-22/info-2024-10-22%2011%3A22%3A18.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2011:22:18.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/83b897ebd0d2e4a8c2e894761de654ccc9da7398","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2011:22:18.log"}},"commit":{"sha":"d353dd44ffa11b1bd1043c5d4433ee2dbf175c4a","node_id":"C_kwDOM4qzi9oAKGQzNTNkZDQ0ZmZhMTFiMWJkMTA0M2M1ZDQ0MzNlZTJkYmYxNzVjNGE","url":"https://api.github.com/repos/ndzy01/logs/git/commits/d353dd44ffa11b1bd1043c5d4433ee2dbf175c4a","html_url":"https://github.com/ndzy01/logs/commit/d353dd44ffa11b1bd1043c5d4433ee2dbf175c4a","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T11:22:18Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T11:22:18Z"},"tree":{"sha":"e4a63a4c01632722ab69a0db84c2a9ee2429ede1","url":"https://api.github.com/repos/ndzy01/logs/git/trees/e4a63a4c01632722ab69a0db84c2a9ee2429ede1"},"message":"更新日志 2024-10-22 11:22:18","parents":[{"sha":"83bb0c786845b6f60bf80d4a943a776abef6ea5c","url":"https://api.github.com/repos/ndzy01/logs/git/commits/83bb0c786845b6f60bf80d4a943a776abef6ea5c","html_url":"https://github.com/ndzy01/logs/commit/83bb0c786845b6f60bf80d4a943a776abef6ea5c"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-10-22 11:24:38: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 11:24:38: [INFO] method=GET ip=1.36.156.68 耗时=49ms======
+info: 2024-10-22 11:27:18: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 11:27:18: [INFO] method=GET ip=218.250.72.67 耗时=30ms======
+info: 2024-10-22 11:29:38: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 11:29:38: [INFO] method=GET ip=1.36.156.68 耗时=41ms======
+info: 2024-10-22 11:32:18: 上传日志
+info: 2024-10-22 11:32:18: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 11:32:18: [INFO] method=GET ip=218.250.72.67 耗时=59ms======
+info: 2024-10-22 11:34:38: "上传成功"
+info: 2024-10-22 11:34:38: {"content":{"name":"info-2024-10-22 11:32:18.log","path":"ndzy-s/2024-10-22/info-2024-10-22 11:32:18.log","sha":"124b7d609538dfad6366123598032032f4487a11","size":14103,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2011:32:18.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2011:32:18.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/124b7d609538dfad6366123598032032f4487a11","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-10-22/info-2024-10-22%2011%3A32%3A18.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2011:32:18.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/124b7d609538dfad6366123598032032f4487a11","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2011:32:18.log"}},"commit":{"sha":"eeb57869f9128e6babe67407ab8af1ebd52c1925","node_id":"C_kwDOM4qzi9oAKGVlYjU3ODY5ZjkxMjhlNmJhYmU2NzQwN2FiOGFmMWViZDUyYzE5MjU","url":"https://api.github.com/repos/ndzy01/logs/git/commits/eeb57869f9128e6babe67407ab8af1ebd52c1925","html_url":"https://github.com/ndzy01/logs/commit/eeb57869f9128e6babe67407ab8af1ebd52c1925","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T11:32:18Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T11:32:18Z"},"tree":{"sha":"28add9f683e87fb9d786d829dc9028228beac380","url":"https://api.github.com/repos/ndzy01/logs/git/trees/28add9f683e87fb9d786d829dc9028228beac380"},"message":"更新日志 2024-10-22 11:32:18","parents":[{"sha":"d353dd44ffa11b1bd1043c5d4433ee2dbf175c4a","url":"https://api.github.com/repos/ndzy01/logs/git/commits/d353dd44ffa11b1bd1043c5d4433ee2dbf175c4a","html_url":"https://github.com/ndzy01/logs/commit/d353dd44ffa11b1bd1043c5d4433ee2dbf175c4a"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-10-22 11:34:38: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 11:34:38: [INFO] method=GET ip=1.36.156.68 耗时=46ms======
+info: 2024-10-22 11:37:18: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 11:37:18: [INFO] method=GET ip=218.250.72.67 耗时=39ms======
+info: 2024-10-22 11:39:38: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 11:39:38: [INFO] method=GET ip=1.36.156.68 耗时=52ms======
+info: 2024-10-22 11:42:18: 上传日志
