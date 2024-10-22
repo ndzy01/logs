@@ -1,0 +1,70 @@
+info: 2024-10-22 09:28:04: Starting Nest application...
+info: 2024-10-22 09:28:04: TypeOrmModule dependencies initialized
+info: 2024-10-22 09:28:04: MulterModule dependencies initialized
+info: 2024-10-22 09:28:04: JwtModule dependencies initialized
+info: 2024-10-22 09:28:04: WinstonModule dependencies initialized
+info: 2024-10-22 09:28:04: TasksModule dependencies initialized
+info: 2024-10-22 09:28:04: DiscoveryModule dependencies initialized
+info: 2024-10-22 09:28:04: AppModule dependencies initialized
+info: 2024-10-22 09:28:04: ScheduleModule dependencies initialized
+info: 2024-10-22 09:28:04: TypeOrmCoreModule dependencies initialized
+info: 2024-10-22 09:28:04: TypeOrmModule dependencies initialized
+info: 2024-10-22 09:28:04: TypeOrmModule dependencies initialized
+info: 2024-10-22 09:28:04: TypeOrmModule dependencies initialized
+info: 2024-10-22 09:28:04: TypeOrmModule dependencies initialized
+info: 2024-10-22 09:28:04: UserModule dependencies initialized
+info: 2024-10-22 09:28:04: ArticleModule dependencies initialized
+info: 2024-10-22 09:28:04: MusicModule dependencies initialized
+info: 2024-10-22 09:28:04: ImgModule dependencies initialized
+info: 2024-10-22 09:28:04: AppController {/}:
+info: 2024-10-22 09:28:04: Mapped {/, GET} route
+info: 2024-10-22 09:28:04: Mapped {/auth, GET} route
+info: 2024-10-22 09:28:04: Mapped {/encrypt, GET} route
+info: 2024-10-22 09:28:04: Mapped {/decrypt, GET} route
+info: 2024-10-22 09:28:04: UserController {/user}:
+info: 2024-10-22 09:28:04: Mapped {/user/register, POST} route
+info: 2024-10-22 09:28:04: Mapped {/user/login, POST} route
+info: 2024-10-22 09:28:04: Mapped {/user/:id, GET} route
+info: 2024-10-22 09:28:04: ArticleController {/article}:
+info: 2024-10-22 09:28:04: Mapped {/article, POST} route
+info: 2024-10-22 09:28:04: Mapped {/article, GET} route
+info: 2024-10-22 09:28:04: Mapped {/article/:id, GET} route
+info: 2024-10-22 09:28:04: Mapped {/article/pid/:pid, GET} route
+info: 2024-10-22 09:28:04: Mapped {/article/:id, PATCH} route
+info: 2024-10-22 09:28:04: Mapped {/article/updateOrder, POST} route
+info: 2024-10-22 09:28:04: Mapped {/article/:id, DELETE} route
+info: 2024-10-22 09:28:04: ImgController {/img}:
+info: 2024-10-22 09:28:04: Mapped {/img, POST} route
+info: 2024-10-22 09:28:04: Mapped {/img, POST} route
+info: 2024-10-22 09:28:04: Mapped {/img, GET} route
+info: 2024-10-22 09:28:04: Mapped {/img/:id, GET} route
+info: 2024-10-22 09:28:04: Mapped {/img/:id, PATCH} route
+info: 2024-10-22 09:28:04: Mapped {/img/:id, DELETE} route
+info: 2024-10-22 09:28:04: MusicController {/music}:
+info: 2024-10-22 09:28:04: Mapped {/music/:id, GET} route
+info: 2024-10-22 09:28:04: Mapped {/music, GET} route
+info: 2024-10-22 09:28:04: Mapped {/music, POST} route
+info: 2024-10-22 09:28:04: Mapped {/music/bulk, POST} route
+info: 2024-10-22 09:28:04: Mapped {/music/:id, PATCH} route
+info: 2024-10-22 09:28:04: Mapped {/music/:id, PUT} route
+info: 2024-10-22 09:28:04: Mapped {/music/:id, DELETE} route
+info: 2024-10-22 09:28:04: Nest application successfully started
+info: 2024-10-22 09:28:04: [INFO] method=PATCH ip=20.109.37.4======
+info: 2024-10-22 09:28:05: [INFO] method=PATCH ip=20.109.37.4 耗时=217ms======
+info: 2024-10-22 09:28:05: [INFO] method=PATCH ip=20.109.37.4======
+info: 2024-10-22 09:28:05: [INFO] method=PATCH ip=20.109.37.4 耗时=196ms======
+info: 2024-10-22 09:28:06: [INFO] method=PATCH ip=20.109.37.4======
+info: 2024-10-22 09:28:06: [INFO] method=PATCH ip=20.109.37.4 耗时=199ms======
+info: 2024-10-22 09:28:06: [INFO] method=PATCH ip=20.109.37.4======
+info: 2024-10-22 09:28:07: [INFO] method=PATCH ip=20.109.37.4 耗时=249ms======
+info: 2024-10-22 09:28:07: [INFO] method=PATCH ip=20.109.37.4======
+info: 2024-10-22 09:28:07: [INFO] method=PATCH ip=20.109.37.4 耗时=198ms======
+info: 2024-10-22 09:28:07: [INFO] method=PATCH ip=20.109.37.4======
+info: 2024-10-22 09:28:08: [INFO] method=PATCH ip=20.109.37.4 耗时=191ms======
+info: 2024-10-22 09:28:08: [INFO] method=PATCH ip=20.109.37.4======
+info: 2024-10-22 09:28:08: [INFO] method=PATCH ip=20.109.37.4 耗时=154ms======
+info: 2024-10-22 09:28:08: [INFO] method=PATCH ip=20.109.37.4======
+info: 2024-10-22 09:28:09: [INFO] method=PATCH ip=20.109.37.4 耗时=151ms======
+info: 2024-10-22 09:28:09: [INFO] method=PATCH ip=20.109.37.4======
+info: 2024-10-22 09:28:09: [INFO] method=PATCH ip=20.109.37.4 耗时=190ms======
+info: 2024-10-22 09:33:20: 上传日志
