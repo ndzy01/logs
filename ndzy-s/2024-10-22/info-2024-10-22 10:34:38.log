@@ -1,0 +1,167 @@
+info: 2024-10-22 10:21:21: Starting Nest application...
+info: 2024-10-22 10:21:21: TypeOrmModule dependencies initialized
+info: 2024-10-22 10:21:21: MulterModule dependencies initialized
+info: 2024-10-22 10:21:21: JwtModule dependencies initialized
+info: 2024-10-22 10:21:21: WinstonModule dependencies initialized
+info: 2024-10-22 10:21:21: TasksModule dependencies initialized
+info: 2024-10-22 10:21:21: DiscoveryModule dependencies initialized
+info: 2024-10-22 10:21:21: AppModule dependencies initialized
+info: 2024-10-22 10:21:21: ScheduleModule dependencies initialized
+info: 2024-10-22 10:21:21: TypeOrmCoreModule dependencies initialized
+info: 2024-10-22 10:21:21: TypeOrmModule dependencies initialized
+info: 2024-10-22 10:21:21: TypeOrmModule dependencies initialized
+info: 2024-10-22 10:21:21: TypeOrmModule dependencies initialized
+info: 2024-10-22 10:21:21: TypeOrmModule dependencies initialized
+info: 2024-10-22 10:21:21: UserModule dependencies initialized
+info: 2024-10-22 10:21:21: ArticleModule dependencies initialized
+info: 2024-10-22 10:21:21: MusicModule dependencies initialized
+info: 2024-10-22 10:21:21: ImgModule dependencies initialized
+info: 2024-10-22 10:21:21: AppController {/}:
+info: 2024-10-22 10:21:21: Mapped {/, GET} route
+info: 2024-10-22 10:21:21: Mapped {/auth, GET} route
+info: 2024-10-22 10:21:21: Mapped {/encrypt, GET} route
+info: 2024-10-22 10:21:21: Mapped {/decrypt, GET} route
+info: 2024-10-22 10:21:21: UserController {/user}:
+info: 2024-10-22 10:21:21: Mapped {/user/register, POST} route
+info: 2024-10-22 10:21:21: Mapped {/user/login, POST} route
+info: 2024-10-22 10:21:21: Mapped {/user/:id, GET} route
+info: 2024-10-22 10:21:21: ArticleController {/article}:
+info: 2024-10-22 10:21:21: Mapped {/article, POST} route
+info: 2024-10-22 10:21:21: Mapped {/article, GET} route
+info: 2024-10-22 10:21:21: Mapped {/article/:id, GET} route
+info: 2024-10-22 10:21:21: Mapped {/article/pid/:pid, GET} route
+info: 2024-10-22 10:21:21: Mapped {/article/:id, PATCH} route
+info: 2024-10-22 10:21:21: Mapped {/article/updateOrder, POST} route
+info: 2024-10-22 10:21:21: Mapped {/article/:id, DELETE} route
+info: 2024-10-22 10:21:21: ImgController {/img}:
+info: 2024-10-22 10:21:21: Mapped {/img, POST} route
+info: 2024-10-22 10:21:21: Mapped {/img, POST} route
+info: 2024-10-22 10:21:21: Mapped {/img, GET} route
+info: 2024-10-22 10:21:21: Mapped {/img/:id, GET} route
+info: 2024-10-22 10:21:21: Mapped {/img/:id, PATCH} route
+info: 2024-10-22 10:21:21: Mapped {/img/:id, DELETE} route
+info: 2024-10-22 10:21:21: MusicController {/music}:
+info: 2024-10-22 10:21:21: Mapped {/music/custom, GET} route
+info: 2024-10-22 10:21:21: Mapped {/music/:id, GET} route
+info: 2024-10-22 10:21:21: Mapped {/music, GET} route
+info: 2024-10-22 10:21:21: Mapped {/music, POST} route
+info: 2024-10-22 10:21:21: Mapped {/music/bulk, POST} route
+info: 2024-10-22 10:21:21: Mapped {/music/:id, PATCH} route
+info: 2024-10-22 10:21:21: Mapped {/music/:id, PUT} route
+info: 2024-10-22 10:21:21: Mapped {/music/:id, DELETE} route
+info: 2024-10-22 10:21:21: Nest application successfully started
+info: 2024-10-22 10:21:21: [INFO] method=PATCH ip=20.161.76.238======
+info: 2024-10-22 10:21:22: [INFO] method=PATCH ip=20.161.76.238 耗时=230ms======
+info: 2024-10-22 10:23:29: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:29: [INFO] method=PATCH ip=20.81.159.78 耗时=364ms======
+info: 2024-10-22 10:23:29: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:29: [INFO] method=PATCH ip=20.81.159.78 耗时=147ms======
+info: 2024-10-22 10:23:30: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:30: [INFO] method=PATCH ip=20.81.159.78 耗时=308ms======
+info: 2024-10-22 10:23:30: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:30: [INFO] method=PATCH ip=20.81.159.78 耗时=164ms======
+info: 2024-10-22 10:23:31: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:31: [INFO] method=PATCH ip=20.81.159.78 耗时=187ms======
+info: 2024-10-22 10:23:31: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:32: [INFO] method=PATCH ip=20.81.159.78 耗时=186ms======
+info: 2024-10-22 10:23:32: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:32: [INFO] method=PATCH ip=20.81.159.78 耗时=187ms======
+info: 2024-10-22 10:23:32: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:33: [INFO] method=PATCH ip=20.81.159.78 耗时=191ms======
+info: 2024-10-22 10:23:33: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:33: [INFO] method=PATCH ip=20.81.159.78 耗时=251ms======
+info: 2024-10-22 10:23:34: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:34: [INFO] method=PATCH ip=20.81.159.78 耗时=272ms======
+info: 2024-10-22 10:23:34: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:34: [INFO] method=PATCH ip=20.81.159.78 耗时=188ms======
+info: 2024-10-22 10:23:35: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:35: [INFO] method=PATCH ip=20.81.159.78 耗时=187ms======
+info: 2024-10-22 10:23:35: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:35: [INFO] method=PATCH ip=20.81.159.78 耗时=146ms======
+info: 2024-10-22 10:23:36: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:36: [INFO] method=PATCH ip=20.81.159.78 耗时=188ms======
+info: 2024-10-22 10:23:36: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:36: [INFO] method=PATCH ip=20.81.159.78 耗时=187ms======
+info: 2024-10-22 10:23:37: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:37: [INFO] method=PATCH ip=20.81.159.78 耗时=188ms======
+info: 2024-10-22 10:23:37: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:37: [INFO] method=PATCH ip=20.81.159.78 耗时=148ms======
+info: 2024-10-22 10:23:38: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:38: [INFO] method=PATCH ip=20.81.159.78 耗时=187ms======
+info: 2024-10-22 10:23:39: [INFO] method=PATCH ip=20.81.159.78======
+info: 2024-10-22 10:23:39: [INFO] method=PATCH ip=20.81.159.78 耗时=145ms======
+info: 2024-10-22 10:24:04: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 10:24:04: [INFO] method=GET ip=218.250.72.67 耗时=83ms======
+info: 2024-10-22 10:24:21: [INFO] method=PATCH ip=20.109.38.158======
+info: 2024-10-22 10:24:21: [INFO] method=PATCH ip=20.109.38.158 耗时=216ms======
+info: 2024-10-22 10:24:22: [INFO] method=PATCH ip=20.109.38.158======
+info: 2024-10-22 10:24:22: [INFO] method=PATCH ip=20.109.38.158 耗时=156ms======
+info: 2024-10-22 10:24:22: [INFO] method=PATCH ip=20.109.38.158======
+info: 2024-10-22 10:24:22: [INFO] method=PATCH ip=20.109.38.158 耗时=192ms======
+info: 2024-10-22 10:24:23: [INFO] method=PATCH ip=20.109.38.158======
+info: 2024-10-22 10:24:23: [INFO] method=PATCH ip=20.109.38.158 耗时=191ms======
+info: 2024-10-22 10:24:23: [INFO] method=PATCH ip=20.109.38.158======
+info: 2024-10-22 10:24:23: [INFO] method=PATCH ip=20.109.38.158 耗时=190ms======
+info: 2024-10-22 10:24:24: [INFO] method=PATCH ip=20.109.38.158======
+info: 2024-10-22 10:24:24: [INFO] method=PATCH ip=20.109.38.158 耗时=148ms======
+info: 2024-10-22 10:24:24: [INFO] method=PATCH ip=20.109.38.158======
+info: 2024-10-22 10:24:24: [INFO] method=PATCH ip=20.109.38.158 耗时=197ms======
+info: 2024-10-22 10:24:25: [INFO] method=PATCH ip=20.109.38.158======
+info: 2024-10-22 10:24:25: [INFO] method=PATCH ip=20.109.38.158 耗时=153ms======
+info: 2024-10-22 10:24:25: [INFO] method=PATCH ip=20.109.38.158======
+info: 2024-10-22 10:24:25: [INFO] method=PATCH ip=20.109.38.158 耗时=249ms======
+info: 2024-10-22 10:24:25: [INFO] method=PATCH ip=20.109.38.158======
+info: 2024-10-22 10:24:26: [INFO] method=PATCH ip=20.109.38.158 耗时=191ms======
+info: 2024-10-22 10:24:26: [INFO] method=PATCH ip=20.109.38.158======
+info: 2024-10-22 10:24:26: [INFO] method=PATCH ip=20.109.38.158 耗时=151ms======
+info: 2024-10-22 10:24:57: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:24:57: [INFO] method=PATCH ip=20.55.14.242 耗时=174ms======
+info: 2024-10-22 10:24:57: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:24:58: [INFO] method=PATCH ip=20.55.14.242 耗时=193ms======
+info: 2024-10-22 10:24:58: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:24:58: [INFO] method=PATCH ip=20.55.14.242 耗时=192ms======
+info: 2024-10-22 10:24:59: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:24:59: [INFO] method=PATCH ip=20.55.14.242 耗时=192ms======
+info: 2024-10-22 10:24:59: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:24:59: [INFO] method=PATCH ip=20.55.14.242 耗时=151ms======
+info: 2024-10-22 10:25:00: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:00: [INFO] method=PATCH ip=20.55.14.242 耗时=230ms======
+info: 2024-10-22 10:25:00: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:00: [INFO] method=PATCH ip=20.55.14.242 耗时=151ms======
+info: 2024-10-22 10:25:01: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:01: [INFO] method=PATCH ip=20.55.14.242 耗时=152ms======
+info: 2024-10-22 10:25:01: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:01: [INFO] method=PATCH ip=20.55.14.242 耗时=192ms======
+info: 2024-10-22 10:25:02: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:02: [INFO] method=PATCH ip=20.55.14.242 耗时=191ms======
+info: 2024-10-22 10:25:02: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:02: [INFO] method=PATCH ip=20.55.14.242 耗时=151ms======
+info: 2024-10-22 10:25:02: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:03: [INFO] method=PATCH ip=20.55.14.242 耗时=196ms======
+info: 2024-10-22 10:25:03: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:03: [INFO] method=PATCH ip=20.55.14.242 耗时=191ms======
+info: 2024-10-22 10:25:03: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:03: [INFO] method=PATCH ip=20.55.14.242 耗时=195ms======
+info: 2024-10-22 10:25:04: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:04: [INFO] method=PATCH ip=20.55.14.242 耗时=192ms======
+info: 2024-10-22 10:25:04: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:04: [INFO] method=PATCH ip=20.55.14.242 耗时=194ms======
+info: 2024-10-22 10:25:05: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:05: [INFO] method=PATCH ip=20.55.14.242 耗时=146ms======
+info: 2024-10-22 10:25:05: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:05: [INFO] method=PATCH ip=20.55.14.242 耗时=191ms======
+info: 2024-10-22 10:25:06: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:06: [INFO] method=PATCH ip=20.55.14.242 耗时=204ms======
+info: 2024-10-22 10:25:06: [INFO] method=PATCH ip=20.55.14.242======
+info: 2024-10-22 10:25:06: [INFO] method=PATCH ip=20.55.14.242 耗时=149ms======
+info: 2024-10-22 10:25:06: [INFO] method=GET ip=20.55.14.242======
+info: 2024-10-22 10:25:07: [INFO] method=GET ip=20.55.14.242 耗时=754ms======
+info: 2024-10-22 10:25:29: [INFO] method=GET ip=13.91.68.161======
+info: 2024-10-22 10:25:29: [INFO] method=GET ip=13.91.68.161 耗时=35ms======
+info: 2024-10-22 10:28:13: [INFO] method=GET ip=20.55.223.80======
+info: 2024-10-22 10:28:13: [INFO] method=GET ip=20.55.223.80 耗时=43ms======
+info: 2024-10-22 10:29:03: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 10:29:03: [INFO] method=GET ip=218.250.72.67 耗时=49ms======
+info: 2024-10-22 10:29:38: [INFO] method=GET ip=1.36.156.68======
+info: 2024-10-22 10:29:38: [INFO] method=GET ip=1.36.156.68 耗时=82ms======
+info: 2024-10-22 10:34:38: 上传日志
