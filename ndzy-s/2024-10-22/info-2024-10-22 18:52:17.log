@@ -1,0 +1,61 @@
+info: 2024-10-22 18:37:20: Starting Nest application...
+info: 2024-10-22 18:37:20: TypeOrmModule dependencies initialized
+info: 2024-10-22 18:37:20: MulterModule dependencies initialized
+info: 2024-10-22 18:37:20: JwtModule dependencies initialized
+info: 2024-10-22 18:37:20: WinstonModule dependencies initialized
+info: 2024-10-22 18:37:20: TasksModule dependencies initialized
+info: 2024-10-22 18:37:20: DiscoveryModule dependencies initialized
+info: 2024-10-22 18:37:20: AppModule dependencies initialized
+info: 2024-10-22 18:37:20: ScheduleModule dependencies initialized
+info: 2024-10-22 18:37:21: TypeOrmCoreModule dependencies initialized
+info: 2024-10-22 18:37:21: TypeOrmModule dependencies initialized
+info: 2024-10-22 18:37:21: TypeOrmModule dependencies initialized
+info: 2024-10-22 18:37:21: TypeOrmModule dependencies initialized
+info: 2024-10-22 18:37:21: TypeOrmModule dependencies initialized
+info: 2024-10-22 18:37:21: UserModule dependencies initialized
+info: 2024-10-22 18:37:21: ArticleModule dependencies initialized
+info: 2024-10-22 18:37:21: MusicModule dependencies initialized
+info: 2024-10-22 18:37:21: ImgModule dependencies initialized
+info: 2024-10-22 18:37:21: AppController {/}:
+info: 2024-10-22 18:37:21: Mapped {/, GET} route
+info: 2024-10-22 18:37:21: Mapped {/auth, GET} route
+info: 2024-10-22 18:37:21: Mapped {/encrypt, GET} route
+info: 2024-10-22 18:37:21: Mapped {/decrypt, GET} route
+info: 2024-10-22 18:37:21: UserController {/user}:
+info: 2024-10-22 18:37:21: Mapped {/user/register, POST} route
+info: 2024-10-22 18:37:21: Mapped {/user/login, POST} route
+info: 2024-10-22 18:37:21: Mapped {/user/:id, GET} route
+info: 2024-10-22 18:37:21: ArticleController {/article}:
+info: 2024-10-22 18:37:21: Mapped {/article, POST} route
+info: 2024-10-22 18:37:21: Mapped {/article, GET} route
+info: 2024-10-22 18:37:21: Mapped {/article/:id, GET} route
+info: 2024-10-22 18:37:21: Mapped {/article/pid/:pid, GET} route
+info: 2024-10-22 18:37:21: Mapped {/article/:id, PATCH} route
+info: 2024-10-22 18:37:21: Mapped {/article/updateOrder, POST} route
+info: 2024-10-22 18:37:21: Mapped {/article/:id, DELETE} route
+info: 2024-10-22 18:37:21: ImgController {/img}:
+info: 2024-10-22 18:37:21: Mapped {/img, POST} route
+info: 2024-10-22 18:37:21: Mapped {/img, POST} route
+info: 2024-10-22 18:37:21: Mapped {/img, GET} route
+info: 2024-10-22 18:37:21: Mapped {/img/:id, GET} route
+info: 2024-10-22 18:37:21: Mapped {/img/:id, PATCH} route
+info: 2024-10-22 18:37:21: Mapped {/img/:id, DELETE} route
+info: 2024-10-22 18:37:21: MusicController {/music}:
+info: 2024-10-22 18:37:21: Mapped {/music/custom, GET} route
+info: 2024-10-22 18:37:21: Mapped {/music/:id, GET} route
+info: 2024-10-22 18:37:21: Mapped {/music, GET} route
+info: 2024-10-22 18:37:21: Mapped {/music, POST} route
+info: 2024-10-22 18:37:21: Mapped {/music/bulk, POST} route
+info: 2024-10-22 18:37:21: Mapped {/music/:id, PATCH} route
+info: 2024-10-22 18:37:21: Mapped {/music/:id, PUT} route
+info: 2024-10-22 18:37:21: Mapped {/music/:id, DELETE} route
+info: 2024-10-22 18:37:21: Nest application successfully started
+info: 2024-10-22 18:37:21: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 18:37:21: [INFO] method=GET ip=218.250.72.67 耗时=42ms======
+info: 2024-10-22 18:42:17: 上传日志
+info: 2024-10-22 18:42:17: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 18:42:18: [INFO] method=GET ip=218.250.72.67 耗时=199ms======
+info: 2024-10-22 18:47:17: "上传成功"
+info: 2024-10-22 18:47:17: {"content":{"name":"info-2024-10-22 18:42:17.log","path":"ndzy-s/2024-10-22/info-2024-10-22 18:42:17.log","sha":"6fbf0b7e647534ffb4cebf101e4a001a20e090fd","size":3258,"url":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2018:42:17.log?ref=main","html_url":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2018:42:17.log","git_url":"https://api.github.com/repos/ndzy01/logs/git/blobs/6fbf0b7e647534ffb4cebf101e4a001a20e090fd","download_url":"https://raw.githubusercontent.com/ndzy01/logs/main/ndzy-s/2024-10-22/info-2024-10-22%2018%3A42%3A17.log","type":"file","_links":{"self":"https://api.github.com/repos/ndzy01/logs/contents/ndzy-s/2024-10-22/info-2024-10-22%2018:42:17.log?ref=main","git":"https://api.github.com/repos/ndzy01/logs/git/blobs/6fbf0b7e647534ffb4cebf101e4a001a20e090fd","html":"https://github.com/ndzy01/logs/blob/main/ndzy-s/2024-10-22/info-2024-10-22%2018:42:17.log"}},"commit":{"sha":"ad8c5915d4915d765495aad112dd589add0dcbb8","node_id":"C_kwDOM4qzi9oAKGFkOGM1OTE1ZDQ5MTVkNzY1NDk1YWFkMTEyZGQ1ODlhZGQwZGNiYjg","url":"https://api.github.com/repos/ndzy01/logs/git/commits/ad8c5915d4915d765495aad112dd589add0dcbb8","html_url":"https://github.com/ndzy01/logs/commit/ad8c5915d4915d765495aad112dd589add0dcbb8","author":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T18:42:18Z"},"committer":{"name":"ndzy01","email":"46743100+ndzy01@users.noreply.github.com","date":"2024-10-22T18:42:18Z"},"tree":{"sha":"e673f1951f30638dd0d623c2afdb4e14c6a3185b","url":"https://api.github.com/repos/ndzy01/logs/git/trees/e673f1951f30638dd0d623c2afdb4e14c6a3185b"},"message":"更新日志 2024-10-22 18:42:17","parents":[{"sha":"d2d5490ea7b3bad3f6a23712f382bcf5db75cfe4","url":"https://api.github.com/repos/ndzy01/logs/git/commits/d2d5490ea7b3bad3f6a23712f382bcf5db75cfe4","html_url":"https://github.com/ndzy01/logs/commit/d2d5490ea7b3bad3f6a23712f382bcf5db75cfe4"}],"verification":{"verified":false,"reason":"unsigned","signature":null,"payload":null}}}
+info: 2024-10-22 18:47:17: [INFO] method=GET ip=218.250.72.67======
+info: 2024-10-22 18:47:18: [INFO] method=GET ip=218.250.72.67 耗时=201ms======
